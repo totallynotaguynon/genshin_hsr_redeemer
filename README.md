@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 07, 2024 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 08, 2024 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_07_06_2024-19_33_46.png" />
+    <img src="images/profile/Rin_08_06_2024-08_12_51.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3523 (rate -82)</td>
+        <td>3538 (rate -82)</td>
       </tr>
       <tr>
         <td>
@@ -88,7 +88,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2300 (65%)<br />Daily Activity: 405 (11%)<br />Forgotten
+          Adventure Rewards: 2300 (65%)<br />Daily Activity: 420 (11%)<br />Forgotten
           Hall: 420 (11%)<br />Simulated Universe: 315 (8%)<br />Other: 3
           (3%)<br />Mail: 80 (2%)<br />Event: 0 (0%)<br />
         </td>
@@ -2524,7 +2524,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_07_06_2024-19_33_03.png" />
+    <img src="images/profile/genshin_profile_08_06_2024-08_12_10.png" />
   </div>
   <div align="center">
     <h2>
@@ -2533,17 +2533,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4406,27 +4406,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_07_06_2024-19_33_23.png" />
+  <img src="images/showcase/Acheron_08_06_2024-08_12_28.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_07_06_2024-19_33_23.png" />
+  <img src="images/showcase/Robin_08_06_2024-08_12_28.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_07_06_2024-19_33_24.png" />
+  <img src="images/showcase/Herta_08_06_2024-08_12_29.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_07_06_2024-19_33_24.png" />
+  <img src="images/showcase/Himeko_08_06_2024-08_12_29.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_07_06_2024-19_33_25.png" />
+  <img src="images/showcase/Pela_08_06_2024-08_12_30.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_07_06_2024-19_33_25.png" />
+  <img src="images/showcase/Rin_08_06_2024-08_12_30.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
