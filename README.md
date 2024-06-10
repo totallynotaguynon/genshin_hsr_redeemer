@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 10, 2024 08:15 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 10, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_10_06_2024-08_15_23.png" />
+    <img src="images/profile/Rin_10_06_2024-19_33_26.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>81</td>
+        <td>82</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>3703 (rate -81)</td>
+        <td>4048 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -83,36 +83,15 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>24 (rate -60)</td>
+        <td>25 (rate -59)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2345 (63%)<br />Daily Activity: 540 (14%)<br />Forgotten
-          Hall: 420 (11%)<br />Simulated Universe: 315 (8%)<br />Mail: 80
-          (2%)<br />Other: 3 (2%)<br />Event: 0 (0%)<br />
+          Adventure Rewards: 2345 (57%)<br />Daily Activity: 600 (14%)<br />Simulated
+          Universe: 600 (14%)<br />Forgotten Hall: 420 (10%)<br />Other: 3
+          (4%)<br />Mail: 80 (1%)<br />Event: 0 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1014</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Dream Within Dream Stage 8</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>29</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>19</td>
       </tr>
     </table>
   </div>
@@ -2524,7 +2503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_10_06_2024-08_14_38.png" />
+    <img src="images/profile/genshin_profile_10_06_2024-19_32_41.png" />
   </div>
   <div align="center">
     <h2>
@@ -4406,27 +4385,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_10_06_2024-08_15_00.png" />
+  <img src="images/showcase/Acheron_10_06_2024-19_33_04.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_10_06_2024-08_15_00.png" />
+  <img src="images/showcase/Robin_10_06_2024-19_33_04.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_10_06_2024-08_15_00.png" />
+  <img src="images/showcase/Herta_10_06_2024-19_33_05.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_10_06_2024-08_15_01.png" />
+  <img src="images/showcase/Himeko_10_06_2024-19_33_05.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_10_06_2024-08_15_01.png" />
+  <img src="images/showcase/Pela_10_06_2024-19_33_06.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_10_06_2024-08_15_02.png" />
+  <img src="images/showcase/Rin_10_06_2024-19_33_06.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
