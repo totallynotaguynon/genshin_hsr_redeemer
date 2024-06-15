@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 14, 2024 19:32 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 15, 2024 08:13 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_14_06_2024-19_32_32.png" />
+    <img src="images/profile/Rin_15_06_2024-08_13_25.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
             height="20"
           />
-          Credit
+          Energy Drink (sugar-free)
         </td>
       </tr>
     </table>
@@ -2503,7 +2503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_14_06_2024-19_31_52.png" />
+    <img src="images/profile/genshin_profile_15_06_2024-08_12_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -2512,17 +2512,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4385,27 +4385,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_14_06_2024-19_32_10.png" />
+  <img src="images/showcase/Acheron_15_06_2024-08_13_05.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_14_06_2024-19_32_10.png" />
+  <img src="images/showcase/Robin_15_06_2024-08_13_05.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_14_06_2024-19_32_11.png" />
+  <img src="images/showcase/Herta_15_06_2024-08_13_05.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_14_06_2024-19_32_11.png" />
+  <img src="images/showcase/Himeko_15_06_2024-08_13_06.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_14_06_2024-19_32_12.png" />
+  <img src="images/showcase/Pela_15_06_2024-08_13_06.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_14_06_2024-19_32_12.png" />
+  <img src="images/showcase/Rin_15_06_2024-08_13_07.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
