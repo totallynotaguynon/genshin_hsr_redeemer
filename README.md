@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 15, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 16, 2024 08:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_15_06_2024-19_31_04.png" />
+    <img src="images/profile/Rin_16_06_2024-08_19_12.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4353 (rate -78)</td>
+        <td>4413 (rate -77)</td>
       </tr>
       <tr>
         <td>
@@ -88,9 +88,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2370 (54%)<br />Daily Activity: 780 (17%)<br />Simulated
+          Adventure Rewards: 2370 (53%)<br />Daily Activity: 840 (19%)<br />Simulated
           Universe: 600 (13%)<br />Forgotten Hall: 420 (9%)<br />Mail: 180
-          (4%)<br />Other: 3 (3%)<br />Event: 0 (0%)<br />
+          (4%)<br />Other: 3 (2%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2503,7 +2503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_15_06_2024-19_30_21.png" />
+    <img src="images/profile/genshin_profile_16_06_2024-08_18_30.png" />
   </div>
   <div align="center">
     <h2>
@@ -2512,17 +2512,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -4385,27 +4385,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_15_06_2024-19_30_41.png" />
+  <img src="images/showcase/Acheron_16_06_2024-08_18_48.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_15_06_2024-19_30_41.png" />
+  <img src="images/showcase/Robin_16_06_2024-08_18_48.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_15_06_2024-19_30_42.png" />
+  <img src="images/showcase/Herta_16_06_2024-08_18_48.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_15_06_2024-19_30_42.png" />
+  <img src="images/showcase/Himeko_16_06_2024-08_18_49.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_15_06_2024-19_30_43.png" />
+  <img src="images/showcase/Pela_16_06_2024-08_18_49.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_15_06_2024-19_30_43.png" />
+  <img src="images/showcase/Rin_16_06_2024-08_18_50.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
