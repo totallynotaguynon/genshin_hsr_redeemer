@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 18, 2024 08:14 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 18, 2024 19:32 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_18_06_2024-08_14_12.png" />
+    <img src="images/profile/Rin_18_06_2024-19_32_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>88</td>
+        <td>89</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>296</td>
+        <td>297</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4778 (rate -75)</td>
+        <td>4823 (rate -75)</td>
       </tr>
       <tr>
         <td>
@@ -88,7 +88,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2370 (49%)<br />Daily Activity: 960 (20%)<br />Simulated
+          Adventure Rewards: 2370 (49%)<br />Daily Activity: 1005 (20%)<br />Simulated
           Universe: 825 (17%)<br />Forgotten Hall: 420 (8%)<br />Mail: 200
           (4%)<br />Other: 3 (2%)<br />Event: 0 (0%)<br />
         </td>
@@ -2503,7 +2503,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_18_06_2024-08_13_34.png" />
+    <img src="images/profile/genshin_profile_18_06_2024-19_32_53.png" />
   </div>
   <div align="center">
     <h2>
@@ -4385,27 +4385,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_18_06_2024-08_13_51.png" />
+  <img src="images/showcase/Acheron_18_06_2024-19_32_21.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_18_06_2024-08_13_52.png" />
+  <img src="images/showcase/Robin_18_06_2024-19_32_22.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_18_06_2024-08_13_52.png" />
+  <img src="images/showcase/Herta_18_06_2024-19_32_23.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_18_06_2024-08_13_52.png" />
+  <img src="images/showcase/Himeko_18_06_2024-19_32_23.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_18_06_2024-08_13_53.png" />
+  <img src="images/showcase/Pela_18_06_2024-19_32_23.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_18_06_2024-08_13_53.png" />
+  <img src="images/showcase/Rin_18_06_2024-19_32_24.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
