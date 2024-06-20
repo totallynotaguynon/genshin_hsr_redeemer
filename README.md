@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 19, 2024 19:33 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 20, 2024 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_19_06_2024-19_33_14.png" />
+    <img src="images/profile/Rin_20_06_2024-08_12_20.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Credit
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -48,11 +48,11 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>89</td>
+        <td>90</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>4828 (rate -75)</td>
+        <td>5568 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>28 (rate -54)</td>
+        <td>29 (rate -52)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure Rewards: 2375 (49%)<br />Daily Activity: 1005 (20%)<br />Simulated
-          Universe: 825 (17%)<br />Forgotten Hall: 420 (8%)<br />Mail: 200
-          (4%)<br />Other: 3 (2%)<br />Event: 0 (0%)<br />
+          Adventure Rewards: 2375 (42%)<br />Daily Activity: 1065 (19%)<br />Mail:
+          880 (15%)<br />Simulated Universe: 825 (14%)<br />Forgotten Hall: 420
+          (7%)<br />Other: 3 (3%)<br />Event: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -553,18 +553,22 @@
       <table>
         <tr>
           <th><h3>Trailblazer</h3></th>
-          <th><h3></h3></th>
+          <th><h3>Memories of the Past</h3></th>
         </tr>
         <tr>
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/571c70b1675594976a823556cea156e3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b85f9c7fb7bad62edeedb8971215c2cd.png"
               />
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9ce505778a40909cd90c8ed8a3a87b5e.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -578,7 +582,7 @@
                 <td>Element</td>
                 <td>
                   <img
-                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
                     height="18"
                   />
                 </td>
@@ -589,49 +593,11 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>3</td>
+                <td>0</td>
               </tr>
               <tr>
                 <td>Relics</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/4c63b316af29b76525a842cbeb90788b.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Forgiving Casque<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9450994111331926fbc37cd5278305cb.png"
-                    ,
-                    height="18"
-                  />
-                  Watchmaker's Fortuitous Wristwatch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/4923080d400bc740a441c93059425f8c.png"
-                    ,
-                    height="18"
-                  />
-                  Knight's Solemn Breastplate<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/e409a3c04c787fe817cefe5294f65427.png"
-                    ,
-                    height="18"
-                  />
-                  Passerby's Stygian Hiking Boots<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Planar</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/815a20e9eef28c222f2c12c456bf941d.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a72d30303543b985e759a85ec9fac7cf.png"
-                    ,
-                    height="18"
-                  />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
-                </td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -639,15 +605,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>Memories of the Past</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -1200,7 +1166,7 @@
       <table>
         <tr>
           <th><h3>Tingyun</h3></th>
-          <th><h3>Memories of the Past</h3></th>
+          <th><h3></h3></th>
         </tr>
         <tr>
           <td>
@@ -1211,11 +1177,7 @@
             </p>
           </td>
           <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9ce505778a40909cd90c8ed8a3a87b5e.png"
-              />
-            </p>
+            <p align="center"><img src="" /></p>
           </td>
         </tr>
         <tr>
@@ -1252,15 +1214,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Memories of the Past</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td></td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td>1</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -1810,7 +1772,7 @@
       <table>
         <tr>
           <th><h3>Gallagher</h3></th>
-          <th><h3></h3></th>
+          <th><h3>Perfect Timing</h3></th>
         </tr>
         <tr>
           <td>
@@ -1821,7 +1783,11 @@
             </p>
           </td>
           <td>
-            <p align="center"><img src="" /></p>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1ab438658a4a711a78ad6ccbc449fe0a.png"
+              />
+            </p>
           </td>
         </tr>
         <tr>
@@ -1858,15 +1824,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td></td>
+                <td>Perfect Timing</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td></td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Superimpose</td>
-                <td></td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -2494,6 +2460,75 @@
         </tr>
       </table>
     </details>
+    <details>
+      <summary><b>Firefly </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Firefly</h3></th>
+          <th><h3></h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/8c236e078a2dea456d3703fa639f9704.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center"><img src="" /></p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
   </div>
 </details>
 <details align="center">
@@ -2503,7 +2538,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_19_06_2024-19_32_28.png" />
+    <img src="images/profile/genshin_profile_20_06_2024-08_11_43.png" />
   </div>
   <div align="center">
     <h2>
@@ -2512,17 +2547,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>19</td>
+        <td>20</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fisherman's Toast
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4385,27 +4420,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_19_06_2024-19_32_49.png" />
+  <img src="images/showcase/Acheron_20_06_2024-08_11_59.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_19_06_2024-19_32_49.png" />
+  <img src="images/showcase/Robin_20_06_2024-08_11_59.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_19_06_2024-19_32_50.png" />
+  <img src="images/showcase/Herta_20_06_2024-08_12_00.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_19_06_2024-19_32_50.png" />
+  <img src="images/showcase/Himeko_20_06_2024-08_12_00.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_19_06_2024-19_32_51.png" />
+  <img src="images/showcase/Pela_20_06_2024-08_12_00.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_19_06_2024-19_32_51.png" />
+  <img src="images/showcase/Rin_20_06_2024-08_12_01.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
