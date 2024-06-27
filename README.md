@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jun 26, 2024 19:34 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jun 27, 2024 08:14 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_26_06_2024-19_34_16.png" />
+    <img src="images/profile/Rin_27_06_2024-08_14_11.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
             height="20"
           />
-          Refined Aether
+          Lost Crystal
         </td>
       </tr>
     </table>
@@ -2538,7 +2538,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_26_06_2024-19_34_23.png" />
+    <img src="images/profile/genshin_profile_27_06_2024-08_13_28.png" />
   </div>
   <div align="center">
     <h2>
@@ -2547,17 +2547,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Almond Tofu
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -4420,27 +4420,27 @@
 <h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_26_06_2024-19_33_51.png" />
+  <img src="images/showcase/Acheron_27_06_2024-08_13_48.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_26_06_2024-19_33_51.png" />
+  <img src="images/showcase/Robin_27_06_2024-08_13_48.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_26_06_2024-19_33_52.png" />
+  <img src="images/showcase/Herta_27_06_2024-08_13_49.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_26_06_2024-19_33_52.png" />
+  <img src="images/showcase/Himeko_27_06_2024-08_13_49.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_26_06_2024-19_33_53.png" />
+  <img src="images/showcase/Pela_27_06_2024-08_13_50.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_26_06_2024-19_33_53.png" />
+  <img src="images/showcase/Rin_27_06_2024-08_13_50.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR characters showcase/builds on
