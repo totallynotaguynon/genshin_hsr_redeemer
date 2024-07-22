@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 22, 2024 08:18 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 22, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_22_07_2024-08_18_36.png" />
+    <img src="images/profile/Rin_22_07_2024-19_34_45.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>121</td>
+        <td>122</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>301</td>
+        <td>302</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -92,27 +92,6 @@
           390 (14%)<br />Forgotten Hall: 360 (13%)<br />Other: 0 (3%)<br />Event:
           0 (0%)<br />Adventure Rewards: 15 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1015</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>A Song's True Theme Stage 6</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>7</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>18</td>
       </tr>
     </table>
   </div>
@@ -2597,7 +2576,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_22_07_2024-08_17_57.png" />
+    <img src="images/profile/genshin_profile_22_07_2024-19_34_01.png" />
   </div>
   <div align="center">
     <h2>
@@ -4479,27 +4458,27 @@
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_22_07_2024-08_18_17.png" />
+  <img src="images/showcase/Acheron_22_07_2024-19_34_21.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_22_07_2024-08_18_17.png" />
+  <img src="images/showcase/Robin_22_07_2024-19_34_21.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_22_07_2024-08_18_18.png" />
+  <img src="images/showcase/Herta_22_07_2024-19_34_22.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_22_07_2024-08_18_18.png" />
+  <img src="images/showcase/Himeko_22_07_2024-19_34_22.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_22_07_2024-08_18_19.png" />
+  <img src="images/showcase/Pela_22_07_2024-19_34_23.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_22_07_2024-08_18_19.png" />
+  <img src="images/showcase/Rin_22_07_2024-19_34_23.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
