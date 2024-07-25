@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 25, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 25, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_25_07_2024-08_16_22.png" />
+    <img src="images/profile/Rin_25_07_2024-19_33_43.png" />
   </div>
   <div align="center">
     <h2>
@@ -2576,7 +2576,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_25_07_2024-08_15_43.png" />
+    <img src="images/profile/genshin_profile_25_07_2024-19_32_58.png" />
   </div>
   <div align="center">
     <h2>
@@ -2901,8 +2901,8 @@
         <td>Categories</td>
         <td>
           Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
-          0 (0%)<br />
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -4458,27 +4458,27 @@
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_25_07_2024-08_16_02.png" />
+  <img src="images/showcase/Acheron_25_07_2024-19_33_19.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_25_07_2024-08_16_02.png" />
+  <img src="images/showcase/Robin_25_07_2024-19_33_19.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_25_07_2024-08_16_02.png" />
+  <img src="images/showcase/Herta_25_07_2024-19_33_19.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_25_07_2024-08_16_03.png" />
+  <img src="images/showcase/Himeko_25_07_2024-19_33_20.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_25_07_2024-08_16_03.png" />
+  <img src="images/showcase/Pela_25_07_2024-19_33_21.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_25_07_2024-08_16_04.png" />
+  <img src="images/showcase/Rin_25_07_2024-19_33_21.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
