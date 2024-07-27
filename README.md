@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 27, 2024 08:15 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 27, 2024 19:33 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_27_07_2024-08_15_16.png" />
+    <img src="images/profile/Rin_27_07_2024-19_33_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -2576,7 +2576,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_27_07_2024-08_14_34.png" />
+    <img src="images/profile/genshin_profile_27_07_2024-19_32_27.png" />
   </div>
   <div align="center">
     <h2>
@@ -4458,27 +4458,27 @@
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_27_07_2024-08_14_53.png" />
+  <img src="images/showcase/Acheron_27_07_2024-19_32_46.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_27_07_2024-08_14_53.png" />
+  <img src="images/showcase/Robin_27_07_2024-19_32_46.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_27_07_2024-08_14_54.png" />
+  <img src="images/showcase/Herta_27_07_2024-19_32_47.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_27_07_2024-08_14_54.png" />
+  <img src="images/showcase/Himeko_27_07_2024-19_32_47.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_27_07_2024-08_14_55.png" />
+  <img src="images/showcase/Pela_27_07_2024-19_32_48.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_27_07_2024-08_14_55.png" />
+  <img src="images/showcase/Rin_27_07_2024-19_32_48.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
