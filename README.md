@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Jul 30, 2024 08:16 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Jul 30, 2024 19:34 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_30_07_2024-08_16_41.png" />
+    <img src="images/profile/Rin_30_07_2024-19_34_04.png" />
   </div>
   <div align="center">
     <h2>
@@ -48,7 +48,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>129</td>
+        <td>130</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -2576,7 +2576,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_30_07_2024-08_15_59.png" />
+    <img src="images/profile/genshin_profile_30_07_2024-19_33_16.png" />
   </div>
   <div align="center">
     <h2>
@@ -4458,27 +4458,27 @@
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_30_07_2024-08_16_19.png" />
+  <img src="images/showcase/Acheron_30_07_2024-19_33_41.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_30_07_2024-08_16_20.png" />
+  <img src="images/showcase/Robin_30_07_2024-19_33_42.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_30_07_2024-08_16_20.png" />
+  <img src="images/showcase/Herta_30_07_2024-19_33_42.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_30_07_2024-08_16_21.png" />
+  <img src="images/showcase/Himeko_30_07_2024-19_33_43.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_30_07_2024-08_16_21.png" />
+  <img src="images/showcase/Pela_30_07_2024-19_33_43.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_30_07_2024-08_16_21.png" />
+  <img src="images/showcase/Rin_30_07_2024-19_33_44.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
