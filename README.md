@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Aug 03, 2024 19:31 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Aug 04, 2024 08:22 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -12,7 +12,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/Rin_03_08_2024-19_31_19.png" />
+    <img src="images/profile/Rin_04_08_2024-08_22_22.png" />
   </div>
   <div align="center">
     <h2>
@@ -21,17 +21,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
             height="20"
           />
-          Credit
+          Canned Soda
         </td>
       </tr>
     </table>
@@ -73,7 +73,7 @@
           <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
           earned
         </td>
-        <td>120 (rate -97)</td>
+        <td>220 (rate -96)</td>
       </tr>
       <tr>
         <td>
@@ -83,14 +83,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>4 (rate -81)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 120 (100%)<br />Event: 0 (0%)<br />Adventure Rewards:
-          0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Daily Activity: 180 (81%)<br />Simulated Universe: 40 (18%)<br />Other:
+          0 (1%)<br />Event: 0 (0%)<br />Adventure Rewards: 0 (0%)<br />Forgotten
+          Hall: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2576,7 +2576,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_03_08_2024-19_30_38.png" />
+    <img src="images/profile/genshin_profile_04_08_2024-08_21_45.png" />
   </div>
   <div align="center">
     <h2>
@@ -2585,17 +2585,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -4458,27 +4458,27 @@
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="images/showcase/Acheron_03_08_2024-19_31_00.png" />
+  <img src="images/showcase/Acheron_04_08_2024-08_22_04.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="images/showcase/Robin_03_08_2024-19_31_00.png" />
+  <img src="images/showcase/Robin_04_08_2024-08_22_05.png" />
 </details>
 <details align="center">
   <summary>Herta</summary>
-  <img src="images/showcase/Herta_03_08_2024-19_31_01.png" />
+  <img src="images/showcase/Herta_04_08_2024-08_22_05.png" />
 </details>
 <details align="center">
   <summary>Himeko</summary>
-  <img src="images/showcase/Himeko_03_08_2024-19_31_02.png" />
+  <img src="images/showcase/Himeko_04_08_2024-08_22_05.png" />
 </details>
 <details align="center">
   <summary>Pela</summary>
-  <img src="images/showcase/Pela_03_08_2024-19_31_02.png" />
+  <img src="images/showcase/Pela_04_08_2024-08_22_06.png" />
 </details>
 <details align="center">
   <summary>Rin</summary>
-  <img src="images/showcase/Rin_03_08_2024-19_31_03.png" />
+  <img src="images/showcase/Rin_04_08_2024-08_22_06.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
