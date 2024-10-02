@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 02, 2024 16:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 02, 2024 19:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1183,7 +1183,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/Joy_02_10_2024-16_26_32.png" />
+    <img src="../images/profile/Joy_02_10_2024-19_43_05.png" />
   </div>
   <div align="center">
     <h2>
@@ -5461,7 +5461,7 @@
   </summary>
   <div align="center">
     <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_02_10_2024-16_25_59.png" />
+    <img src="../images/profile/genshin_profile_02_10_2024-19_42_24.png" />
   </div>
   <div align="center">
     <h2>
@@ -13191,48 +13191,48 @@
 <h2 align="center">My Genshin Impact Character Showcase</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_02_10_2024-16_25_27.png" />
+  <img src="../images/showcase/genshin_card_02_10_2024-19_41_56.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_02_10_2024-16_25_28.png" />
+  <img src="../images/showcase/genshin_card_02_10_2024-19_41_57.png" />
 </details>
 <details align="center">
   <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_02_10_2024-16_25_29.png" />
+  <img src="../images/showcase/genshin_card_02_10_2024-19_41_58.png" />
 </details>
 <h2 align="center">My Honkai: Star Rail Character Showcase</h2>
 <details align="center">
   <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_02_10_2024-16_26_11.png" />
+  <img src="../images/showcase/Acheron_02_10_2024-19_42_44.png" />
 </details>
 <details align="center">
   <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_02_10_2024-16_26_11.png" />
+  <img src="../images/showcase/Firefly_02_10_2024-19_42_44.png" />
 </details>
 <details align="center">
   <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_02_10_2024-16_26_12.png" />
+  <img src="../images/showcase/Feixiao_02_10_2024-19_42_45.png" />
 </details>
 <details align="center">
   <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_02_10_2024-16_26_12.png" />
+  <img src="../images/showcase/Ruan-Mei_02_10_2024-19_42_45.png" />
 </details>
 <details align="center">
   <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_02_10_2024-16_26_12.png" />
+  <img src="../images/showcase/Kafka_02_10_2024-19_42_46.png" />
 </details>
 <details align="center">
   <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_02_10_2024-16_26_13.png" />
+  <img src="../images/showcase/Jingliu_02_10_2024-19_42_46.png" />
 </details>
 <details align="center">
   <summary>Black Swan</summary>
-  <img src="../images/showcase/Black-Swan_02_10_2024-16_26_13.png" />
+  <img src="../images/showcase/Black-Swan_02_10_2024-19_42_47.png" />
 </details>
 <details align="center">
   <summary>Robin</summary>
-  <img src="../images/showcase/Robin_02_10_2024-16_26_14.png" />
+  <img src="../images/showcase/Robin_02_10_2024-19_42_47.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
