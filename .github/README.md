@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 02, 2024 19:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 03, 2024 08:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          10000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/09/03/fdb0c0f257169fe535a544e93184cff9_6026537684530511674.png"
             height="20"
           />
-          Polychromes
+          Dennies
         </td>
       </tr>
     </table>
@@ -1182,27 +1182,23 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/Joy_02_10_2024-19_43_05.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -5460,10 +5456,6 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_02_10_2024-19_42_24.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/genshin_check_in.png" height="20" /> Daily
       Rewards
@@ -5471,17 +5463,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/01ba12730bd86c8858c1e2d86c7d150d_5226749879789315268.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
             height="20"
           />
-          Adventurer's Experience
+          Primogem
         </td>
       </tr>
     </table>
@@ -6079,7 +6071,7 @@
           />
           Primogems earned
         </td>
-        <td>460 (rate -95)</td>
+        <td>520 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -6089,12 +6081,12 @@
           />
           Mora earned
         </td>
-        <td>54631 (rate -99)</td>
+        <td>194356 (rate -97)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 400 (87%)<br />Daily Activity: 60 (13%)<br />Events: 0 (0%)<br />Spiral
+          Mail: 400 (77%)<br />Daily Activity: 120 (23%)<br />Events: 0 (0%)<br />Spiral
           Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
           0 (0%)<br />Other: 0 (0%)<br />
         </td>
@@ -12002,7 +11994,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>7</td>
+                <td>8</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -13187,52 +13179,6 @@
       </table>
     </details>
   </div>
-</details>
-<h2 align="center">My Genshin Impact Character Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_02_10_2024-19_41_56.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_02_10_2024-19_41_57.png" />
-</details>
-<details align="center">
-  <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_02_10_2024-19_41_58.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_02_10_2024-19_42_44.png" />
-</details>
-<details align="center">
-  <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_02_10_2024-19_42_44.png" />
-</details>
-<details align="center">
-  <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_02_10_2024-19_42_45.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_02_10_2024-19_42_45.png" />
-</details>
-<details align="center">
-  <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_02_10_2024-19_42_46.png" />
-</details>
-<details align="center">
-  <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_02_10_2024-19_42_46.png" />
-</details>
-<details align="center">
-  <summary>Black Swan</summary>
-  <img src="../images/showcase/Black-Swan_02_10_2024-19_42_47.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="../images/showcase/Robin_02_10_2024-19_42_47.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
