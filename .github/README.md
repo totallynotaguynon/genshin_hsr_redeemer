@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 03, 2024 08:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 03, 2024 19:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>78</td>
+        <td>79</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1182,6 +1182,10 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="../images/profile/Joy_03_10_2024-19_43_00.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
@@ -1215,7 +1219,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>483</td>
+        <td>484</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1244,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>280 (rate -97)</td>
+        <td>415 (rate -96)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1254,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>7 (rate -81)</td>
+        <td>10 (rate -72)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 160 (57%)<br />Daily Activity: 120 (42%)<br />Other: 0
-          (1%)<br />Event: 0 (0%)<br />Adventure Rewards: 0 (0%)<br />Simulated
-          Universe: 0 (0%)<br />Mail: 0 (0%)<br />
+          Daily Activity: 180 (43%)<br />Forgotten Hall: 160 (38%)<br />Mail: 70
+          (16%)<br />Other: 0 (2%)<br />Adventure Rewards: 5 (1%)<br />Event: 0
+          (0%)<br />Simulated Universe: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5456,6 +5460,10 @@
     Genshin Impact Details
   </summary>
   <div align="center">
+    <h2>Profile</h2>
+    <img src="../images/profile/genshin_profile_03_10_2024-19_42_16.png" />
+  </div>
+  <div align="center">
     <h2>
       <img src="../images/icons/genshin_check_in.png" height="20" /> Daily
       Rewards
@@ -5494,7 +5502,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>955</td>
+        <td>957</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6071,7 +6079,7 @@
           />
           Primogems earned
         </td>
-        <td>520 (rate -94)</td>
+        <td>600 (rate -93)</td>
       </tr>
       <tr>
         <td>
@@ -6081,12 +6089,12 @@
           />
           Mora earned
         </td>
-        <td>194356 (rate -97)</td>
+        <td>291131 (rate -95)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 400 (77%)<br />Daily Activity: 120 (23%)<br />Events: 0 (0%)<br />Spiral
+          Mail: 420 (70%)<br />Daily Activity: 180 (30%)<br />Events: 0 (0%)<br />Spiral
           Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
           0 (0%)<br />Other: 0 (0%)<br />
         </td>
@@ -13179,6 +13187,52 @@
       </table>
     </details>
   </div>
+</details>
+<h2 align="center">My Genshin Impact Character Showcase</h2>
+<details align="center">
+  <summary>Showcase 1</summary>
+  <img src="../images/showcase/genshin_card_03_10_2024-19_41_48.png" />
+</details>
+<details align="center">
+  <summary>Showcase 2</summary>
+  <img src="../images/showcase/genshin_card_03_10_2024-19_41_49.png" />
+</details>
+<details align="center">
+  <summary>Showcase 3</summary>
+  <img src="../images/showcase/genshin_card_03_10_2024-19_41_50.png" />
+</details>
+<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
+<details align="center">
+  <summary>Acheron</summary>
+  <img src="../images/showcase/Acheron_03_10_2024-19_42_39.png" />
+</details>
+<details align="center">
+  <summary>Firefly</summary>
+  <img src="../images/showcase/Firefly_03_10_2024-19_42_39.png" />
+</details>
+<details align="center">
+  <summary>Feixiao</summary>
+  <img src="../images/showcase/Feixiao_03_10_2024-19_42_40.png" />
+</details>
+<details align="center">
+  <summary>Ruan Mei</summary>
+  <img src="../images/showcase/Ruan-Mei_03_10_2024-19_42_40.png" />
+</details>
+<details align="center">
+  <summary>Kafka</summary>
+  <img src="../images/showcase/Kafka_03_10_2024-19_42_41.png" />
+</details>
+<details align="center">
+  <summary>Jingliu</summary>
+  <img src="../images/showcase/Jingliu_03_10_2024-19_42_41.png" />
+</details>
+<details align="center">
+  <summary>Black Swan</summary>
+  <img src="../images/showcase/Black-Swan_03_10_2024-19_42_41.png" />
+</details>
+<details align="center">
+  <summary>Robin</summary>
+  <img src="../images/showcase/Robin_03_10_2024-19_42_42.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
