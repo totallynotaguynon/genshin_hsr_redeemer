@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 03, 2024 19:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 04, 2024 08:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          10000 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/09/03/fdb0c0f257169fe535a544e93184cff9_6026537684530511674.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
             height="20"
           />
-          Dennies
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1182,27 +1182,23 @@
     Honkai Star Rail Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/Joy_03_10_2024-19_43_00.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/hsr_check_in.png" height="20" /> Daily Rewards
     </h2>
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Condensed Aether
+          Credit
         </td>
       </tr>
     </table>
@@ -5460,10 +5456,6 @@
     Genshin Impact Details
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="../images/profile/genshin_profile_03_10_2024-19_42_16.png" />
-  </div>
-  <div align="center">
     <h2>
       <img src="../images/icons/genshin_check_in.png" height="20" /> Daily
       Rewards
@@ -5471,17 +5463,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          10000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
             height="20"
           />
-          Primogem
+          Mora
         </td>
       </tr>
     </table>
@@ -13187,52 +13179,6 @@
       </table>
     </details>
   </div>
-</details>
-<h2 align="center">My Genshin Impact Character Showcase</h2>
-<details align="center">
-  <summary>Showcase 1</summary>
-  <img src="../images/showcase/genshin_card_03_10_2024-19_41_48.png" />
-</details>
-<details align="center">
-  <summary>Showcase 2</summary>
-  <img src="../images/showcase/genshin_card_03_10_2024-19_41_49.png" />
-</details>
-<details align="center">
-  <summary>Showcase 3</summary>
-  <img src="../images/showcase/genshin_card_03_10_2024-19_41_50.png" />
-</details>
-<h2 align="center">My Honkai: Star Rail Character Showcase</h2>
-<details align="center">
-  <summary>Acheron</summary>
-  <img src="../images/showcase/Acheron_03_10_2024-19_42_39.png" />
-</details>
-<details align="center">
-  <summary>Firefly</summary>
-  <img src="../images/showcase/Firefly_03_10_2024-19_42_39.png" />
-</details>
-<details align="center">
-  <summary>Feixiao</summary>
-  <img src="../images/showcase/Feixiao_03_10_2024-19_42_40.png" />
-</details>
-<details align="center">
-  <summary>Ruan Mei</summary>
-  <img src="../images/showcase/Ruan-Mei_03_10_2024-19_42_40.png" />
-</details>
-<details align="center">
-  <summary>Kafka</summary>
-  <img src="../images/showcase/Kafka_03_10_2024-19_42_41.png" />
-</details>
-<details align="center">
-  <summary>Jingliu</summary>
-  <img src="../images/showcase/Jingliu_03_10_2024-19_42_41.png" />
-</details>
-<details align="center">
-  <summary>Black Swan</summary>
-  <img src="../images/showcase/Black-Swan_03_10_2024-19_42_41.png" />
-</details>
-<details align="center">
-  <summary>Robin</summary>
-  <img src="../images/showcase/Robin_03_10_2024-19_42_42.png" />
 </details>
 <h2 align="center">
   You can also check my Genshin Impact and HSR character's showcase/build on
