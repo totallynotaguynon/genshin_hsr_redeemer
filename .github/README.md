@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 05, 2024 08:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 05, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>80</td>
+        <td>81</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>485</td>
+        <td>486</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>945 (rate -91)</td>
+        <td>1250 (rate -88)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>10 (rate -72)</td>
+        <td>11 (rate -70)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Event: 350 (37%)<br />Daily Activity: 240 (25%)<br />Forgotten Hall:
-          160 (16%)<br />Adventure Rewards: 125 (13%)<br />Mail: 70 (7%)<br />Other:
-          0 (2%)<br />Simulated Universe: 0 (0%)<br />
+          Event: 350 (28%)<br />Daily Activity: 300 (24%)<br />Simulated
+          Universe: 225 (18%)<br />Forgotten Hall: 160 (12%)<br />Adventure
+          Rewards: 125 (10%)<br />Mail: 90 (7%)<br />Other: 0 (1%)<br />
         </td>
       </tr>
     </table>
@@ -12255,7 +12255,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>7</td>
+                <td>8</td>
               </tr>
               <tr>
                 <td>Constellation</td>
