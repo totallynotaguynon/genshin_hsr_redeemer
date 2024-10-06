@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 06, 2024 08:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 06, 2024 19:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>81</td>
+        <td>82</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -54,7 +54,7 @@
       </tr>
       <tr>
         <td>Count Achievement</td>
-        <td>167</td>
+        <td>169</td>
       </tr>
     </table>
   </div>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>486</td>
+        <td>487</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1250 (rate -88)</td>
+        <td>1330 (rate -87)</td>
       </tr>
       <tr>
         <td>
@@ -1255,9 +1255,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Event: 350 (28%)<br />Daily Activity: 300 (24%)<br />Simulated
-          Universe: 225 (18%)<br />Forgotten Hall: 160 (12%)<br />Adventure
-          Rewards: 125 (10%)<br />Mail: 90 (7%)<br />Other: 0 (1%)<br />
+          Daily Activity: 360 (27%)<br />Event: 350 (26%)<br />Simulated
+          Universe: 225 (16%)<br />Forgotten Hall: 160 (12%)<br />Adventure
+          Rewards: 125 (9%)<br />Mail: 110 (8%)<br />Other: 0 (2%)<br />
         </td>
       </tr>
     </table>
@@ -8489,7 +8489,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -8497,8 +8497,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Obsidian Codex<br />1 x Wanderer's
-                  Troupe<br />
+                  Artifacts<br />3 x Obsidian Codex<br />1 x Wanderer's
+                  Troupe<br />1 x Gladiator's Finale<br />
                 </td>
                 <td>
                   <img
@@ -8514,10 +8514,10 @@
                     height="18"
                   />
                   Concert's Final Hour<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/8646972fb7f737726925cfbbbf78a943.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/6684ef48dd98eb04bbf11faa27166d84.png"
                     height="18"
                   />
-                  Pre-Banquet of the Contenders<br /><img
+                  Gladiator's Intoxication<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/d49a16c13f9a9ed95fe7c9d233a91211.png"
                     height="18"
                   />
@@ -8542,7 +8542,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Refinement</td>
