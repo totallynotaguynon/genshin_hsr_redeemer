@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 05, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 06, 2024 08:46 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/09/03/decf1a0ec272930638f0794ce348d65a_4601448372274251372.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
             height="20"
           />
-          Senior Investigator Logs
+          Polychromes
         </td>
       </tr>
     </table>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Canned Soda
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -5463,17 +5463,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
             height="20"
           />
-          Primogem
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -5494,7 +5494,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>958</td>
+        <td>959</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6071,7 +6071,7 @@
           />
           Primogems earned
         </td>
-        <td>720 (rate -92)</td>
+        <td>870 (rate -90)</td>
       </tr>
       <tr>
         <td>
@@ -6081,14 +6081,14 @@
           />
           Mora earned
         </td>
-        <td>414606 (rate -94)</td>
+        <td>492231 (rate -93)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 420 (59%)<br />Daily Activity: 240 (33%)<br />Events: 60 (8%)<br />Spiral
+          Mail: 460 (53%)<br />Daily Activity: 300 (35%)<br />Events: 60 (7%)<br />Spiral
           Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Other: 0 (0%)<br />
+          0 (0%)<br />Other: 50 (5%)<br />
         </td>
       </tr>
     </table>
