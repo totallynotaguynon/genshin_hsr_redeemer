@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 06, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 07, 2024 08:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/9c3085e9abec0272f623338bf8ee6c58_105284454118290029.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/18/a3cdd8c37c84f83a6d8490c75d80c6c1_5682144751981068481.png"
             height="20"
           />
-          Polychromes
+          W-Engine Energy Modules
         </td>
       </tr>
     </table>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -5463,17 +5463,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
+            src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
             height="20"
           />
-          Hero's Wit
+          Primogem
         </td>
       </tr>
     </table>
@@ -6269,8 +6269,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Wanderer's
-                  Troupe<br />
+                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Song of
+                  Days Past<br />
                 </td>
                 <td>
                   <img
@@ -6278,18 +6278,18 @@
                     height="18"
                   />
                   Magnificent Tsuba<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/062423e973570826efeecdcddfaa290b.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/43e06dc76f5187792c421da588228cc7.png"
                     height="18"
                   />
-                  Bard's Arrow Feather<br /><img
+                  Sundered Feather<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/c9969c6c96ee8cfc40cab7f5c5195a38.png"
                     height="18"
                   />
                   Storm Cage<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/5b705ff69e0691fcba4f2cdca57969d5.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/ae44b2e95b8715c805ee6ab8ed95cbdc.png"
                     height="18"
                   />
-                  Scarlet Vessel<br /><img
+                  Promised Dream of Days Past<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/fe5d5c1fd078f864cd1826b6b862e47b.png"
                     height="18"
                   />
@@ -7834,7 +7834,10 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br />5 x Song of Days Past<br /></td>
+                <td>
+                  Artifacts<br />4 x Song of Days Past<br />1 x Maiden
+                  Beloved<br />
+                </td>
                 <td>
                   <img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/d7940f15d947334585759ffb235786fc.png"
@@ -7849,10 +7852,10 @@
                     height="18"
                   />
                   Echoing Sound From Days Past<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/ae44b2e95b8715c805ee6ab8ed95cbdc.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/a6ba681028b31e5c69e9f3ea88a6f0fc.png"
                     height="18"
                   />
-                  Promised Dream of Days Past<br /><img
+                  Maiden's Fleeting Leisure<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/361dc0a4baf4d6ea8a67bf9548309864.png"
                     height="18"
                   />
@@ -9956,7 +9959,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Wanderer's Troupe<br />2 x Emblem of
+                  Artifacts<br />3 x Wanderer's Troupe<br />1 x Emblem of
                   Severed Fate<br />
                 </td>
                 <td>
@@ -9965,10 +9968,10 @@
                     height="18"
                   />
                   Troupe's Dawnlight<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/43e06dc76f5187792c421da588228cc7.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/062423e973570826efeecdcddfaa290b.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  Bard's Arrow Feather<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/5b705ff69e0691fcba4f2cdca57969d5.png"
                     height="18"
                   />
