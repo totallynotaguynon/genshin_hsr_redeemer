@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 08, 2024 08:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 08, 2024 19:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -54,7 +54,7 @@
       </tr>
       <tr>
         <td>Count Achievement</td>
-        <td>169</td>
+        <td>170</td>
       </tr>
     </table>
   </div>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>487</td>
+        <td>488</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1330 (rate -87)</td>
+        <td>1410 (rate -87)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>11 (rate -70)</td>
+        <td>12 (rate -67)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 360 (27%)<br />Event: 350 (26%)<br />Simulated
-          Universe: 225 (16%)<br />Forgotten Hall: 160 (12%)<br />Adventure
-          Rewards: 125 (9%)<br />Mail: 110 (8%)<br />Other: 0 (2%)<br />
+          Daily Activity: 420 (29%)<br />Event: 350 (24%)<br />Simulated
+          Universe: 225 (15%)<br />Forgotten Hall: 160 (11%)<br />Mail: 130
+          (9%)<br />Adventure Rewards: 125 (8%)<br />Other: 0 (4%)<br />
         </td>
       </tr>
     </table>
@@ -5494,7 +5494,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>960</td>
+        <td>961</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6071,7 +6071,7 @@
           />
           Primogems earned
         </td>
-        <td>1010 (rate -89)</td>
+        <td>1070 (rate -88)</td>
       </tr>
       <tr>
         <td>
@@ -6081,14 +6081,14 @@
           />
           Mora earned
         </td>
-        <td>609401 (rate -91)</td>
+        <td>728492 (rate -89)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 540 (54%)<br />Daily Activity: 360 (36%)<br />Events: 60 (6%)<br />Spiral
-          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Other: 50 (4%)<br />
+          Mail: 540 (51%)<br />Daily Activity: 420 (40%)<br />Events: 60 (5%)<br />Adventure:
+          50 (4%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
