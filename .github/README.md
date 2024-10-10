@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 09, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 10, 2024 08:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -5463,17 +5463,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -8009,7 +8009,7 @@
       <table>
         <tr>
           <th><h3 align="center">Xiangling</h3></th>
-          <th><h3 align="center">Dragon's Bane</h3></th>
+          <th><h3 align="center">Favonius Lance</h3></th>
         </tr>
         <tr>
           <td>
@@ -8023,7 +8023,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/fe82aedc7ef02c976e47a21add9297a2.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/caf6903305762b0e53959d71ae58c1e9.png"
                 height="250"
               />
             </p>
@@ -8096,7 +8096,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Dragon's Bane</td>
+                <td>Favonius Lance</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -8930,7 +8930,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>1</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>
@@ -10848,7 +10848,7 @@
       <table>
         <tr>
           <th><h3 align="center">Layla</h3></th>
-          <th><h3 align="center">Favonius Sword</h3></th>
+          <th><h3 align="center">Cinnabar Spindle</h3></th>
         </tr>
         <tr>
           <td>
@@ -10862,7 +10862,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/2e65a374526921ef37dd30edda8379ae.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/fedfc00ad2c5181512f97ed40ac5cdf6.png"
                 height="250"
               />
             </p>
@@ -10916,7 +10916,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Favonius Sword</td>
+                <td>Cinnabar Spindle</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -10924,7 +10924,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -11274,7 +11274,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>3</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -11386,6 +11386,117 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Xilonen</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Xilonen</h3></th>
+          <th><h3 align="center">Favonius Sword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Xilonen_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/2e65a374526921ef37dd30edda8379ae.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />5 x Scroll of the Hero of Cinder City<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/ba9d90afd8ac2076bf74fbd3295f8ea7.png"
+                    height="18"
+                  />
+                  Beast Tamer's Talisman<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/6425c25a78350cefa1c238f104f45c1d.png"
+                    height="18"
+                  />
+                  Mountain Ranger's Marker<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/e2364297c2efe34f7ad7f215e82c4e25.png"
+                    height="18"
+                  />
+                  Mystic's Gold Dial<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/cf7942ba4a3cdaac2e3b33d301eecc07.png"
+                    height="18"
+                  />
+                  Wandering Scholar's Claw Cup<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u539vg/9fd555919ce253b499688b11fac78d0b.png"
+                    height="18"
+                  />
+                  Demon-Warrior's Feather Mask<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Favonius Sword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -11715,7 +11826,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -11802,7 +11913,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>
@@ -11914,7 +12025,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
