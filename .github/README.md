@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 12, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 13, 2024 08:45 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>87</td>
+        <td>88</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -50,7 +50,7 @@
       </tr>
       <tr>
         <td>Obtained Bangboo</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Count Achievement</td>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>489</td>
+        <td>490</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1470 (rate -86)</td>
+        <td>2175 (rate -80)</td>
       </tr>
       <tr>
         <td>
@@ -1250,14 +1250,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>12 (rate -67)</td>
+        <td>13 (rate -64)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 480 (32%)<br />Event: 350 (23%)<br />Simulated
-          Universe: 225 (15%)<br />Forgotten Hall: 160 (10%)<br />Adventure
-          Rewards: 125 (8%)<br />Mail: 130 (8%)<br />Other: 0 (4%)<br />
+          Simulated Universe: 570 (26%)<br />Daily Activity: 540 (24%)<br />Mail:
+          430 (19%)<br />Event: 350 (16%)<br />Forgotten Hall: 160 (7%)<br />Adventure
+          Rewards: 125 (5%)<br />Other: 0 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5463,17 +5463,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
@@ -5494,7 +5494,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>963</td>
+        <td>964</td>
       </tr>
       <tr>
         <td>Characters</td>
