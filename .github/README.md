@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 16, 2024 08:27 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2024 19:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -2861,7 +2861,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>1-3</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
