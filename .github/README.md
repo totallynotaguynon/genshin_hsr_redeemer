@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 15, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2024 08:27 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>193</td>
+        <td>194</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1290 (rate -69)</td>
+        <td>1350 (rate -67)</td>
       </tr>
       <tr>
         <td>
@@ -78,13 +78,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>14 (rate -50)</td>
+        <td>15 (rate -46)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 780 (60%)<br />Simulated Universe: 450 (34%)<br />Mail:
-          60 (4%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure Rewards:
+          Daily Activity: 840 (62%)<br />Simulated Universe: 450 (33%)<br />Mail:
+          60 (4%)<br />Other: 0 (1%)<br />Event: 0 (0%)<br />Adventure Rewards:
           0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -2822,17 +2822,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
