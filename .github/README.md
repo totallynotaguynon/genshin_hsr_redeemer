@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 15, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2024 08:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -1188,17 +1188,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
             height="20"
           />
-          Credit
+          Energy Drink (sugar-free)
         </td>
       </tr>
     </table>
@@ -1215,7 +1215,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>491</td>
+        <td>492</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1240,7 +1240,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2235 (rate -79)</td>
+        <td>2315 (rate -79)</td>
       </tr>
       <tr>
         <td>
@@ -1255,8 +1255,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 600 (26%)<br />Simulated Universe: 570 (25%)<br />Mail:
-          430 (19%)<br />Event: 350 (15%)<br />Forgotten Hall: 160 (7%)<br />Adventure
+          Daily Activity: 660 (28%)<br />Simulated Universe: 570 (24%)<br />Mail:
+          450 (19%)<br />Event: 350 (15%)<br />Forgotten Hall: 160 (6%)<br />Adventure
           Rewards: 125 (5%)<br />Other: 0 (3%)<br />
         </td>
       </tr>
@@ -5442,17 +5442,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>14</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -5481,7 +5481,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>12-3</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -5938,11 +5938,11 @@
     <table>
       <tr>
         <td>Season</td>
-        <td>98</td>
+        <td>99</td>
       </tr>
       <tr>
         <td>Total Battles</td>
-        <td>12</td>
+        <td>15</td>
       </tr>
       <tr>
         <td>Total Wins</td>
@@ -5960,81 +5960,81 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/babed88a8fbd0ef3d8f8ffec4613c720.png"
-            ,
-            height="18"
-          />
-          Yelan (12)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/92af1e2aef8f544b1abdb40cd59f293f.png"
-            ,
-            height="18"
-          />
-          Xiangling (9)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/98462cdcbccadea9d319ee7d4c426ed1.png"
-            ,
-            height="18"
-          />
-          Bennett (9)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/69320f0d8644660dca6c1184189d7bfe.png"
             ,
             height="18"
           />
-          Kaedehara Kazuha (9)<br />
+          Kaedehara Kazuha (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8d2715cd1162222fae337221aa76e8df.png"
+            ,
+            height="18"
+          />
+          Clorinde (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9a7f0759568aee3ee273c2d3e767178f.png"
+            ,
+            height="18"
+          />
+          Baizhu (12)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ca6e3131744b4863cbe23bd63d01267d.png"
+            ,
+            height="18"
+          />
+          Raiden Shogun (12)<br />
         </td>
       </tr>
       <tr>
         <td>most_kills</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/5999899b55a892d29ca1858b04d8d4f9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/f4081b7dae1fb80d1ba9a35dcb20c5d8.png"
             ,
             height="18"
           />
-          Nahida (19)<br />
+          Clorinde (60)<br />
         </td>
       </tr>
       <tr>
         <td>strongest_strike</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/3e484ec1943c959045a80c463ed1cd89.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/b4197bc5d3609b57031598c27ea1ba1f.png"
             ,
             height="18"
           />
-          Raiden Shogun (191873)<br />
+          Mualani (737582)<br />
         </td>
       </tr>
       <tr>
         <td>most_damage_taken</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/440a8d29e3294fe99e32ec6d9ef36b31.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/d387bab2ffcfef99ff720148451e4260.png"
             ,
             height="18"
           />
-          Baizhu (22947)<br />
+          Furina (33400)<br />
         </td>
       </tr>
       <tr>
         <td>most_bursts_used</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/5ea8444f43920ba580a0a26f23877364.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/fbc5b86f6df59ff221894f67992c393e.png"
             ,
             height="18"
           />
-          Yelan (9)<br />
+          Kaedehara Kazuha (13)<br />
         </td>
       </tr>
       <tr>
         <td>most_skills_used</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/ea69710e84f83e075adfe16356a215da.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_avatar_side_icon_ue4a0g/f4081b7dae1fb80d1ba9a35dcb20c5d8.png"
             ,
             height="18"
           />
-          Yae Miko (21)<br />
+          Clorinde (29)<br />
         </td>
       </tr>
     </table>
@@ -8471,7 +8471,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Constellation</td>
