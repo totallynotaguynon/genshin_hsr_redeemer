@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 16, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 17, 2024 08:25 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>194</td>
+        <td>195</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1350 (rate -67)</td>
+        <td>1961 (rate -53)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -46)</td>
+        <td>16 (rate -42)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 840 (62%)<br />Simulated Universe: 450 (33%)<br />Mail:
-          60 (4%)<br />Other: 0 (1%)<br />Event: 0 (0%)<br />Adventure Rewards:
-          0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Daily Activity: 900 (45%)<br />Simulated Universe: 680 (34%)<br />Mail:
+          380 (19%)<br />Other: 1 (2%)<br />Event: 0 (0%)<br />Adventure
+          Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -479,21 +479,21 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/98e95d27eeb53f7459ab7c2df5651af2.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/62ed1f25962c97814453268c6b4e187b.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/4def98c50c398baad07dda7ed4abef46.png"
+                  Pioneer's Heatproof Shell<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/c04ef76d82dddd4ef765894326926831.png"
                     ,
                     height="18"
                   />
-                  Band's Touring Bracelet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/d7fcc2bbfcb26ba04877faea2c36a250.png"
+                  Pioneer's Lacuna Compass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/07faff98755bbc3b5f239183714ff7b9.png"
                     ,
                     height="18"
                   />
-                  Band's Leather Jacket With Studs<br /><img
+                  Pioneer's Sealed Lead Apron<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3efnc/4d81618eb79267529d98c04ec075c658.png"
                     ,
                     height="18"
@@ -2822,17 +2822,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
