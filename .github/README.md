@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 19, 2024 08:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 19, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>495</td>
+        <td>496</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1292,7 +1292,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>559</td>
+        <td>560</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2495 (rate -77)</td>
+        <td>3370 (rate -69)</td>
       </tr>
       <tr>
         <td>
@@ -1324,10 +1324,31 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 840 (33%)<br />Simulated Universe: 570 (22%)<br />Mail:
-          450 (18%)<br />Event: 350 (14%)<br />Forgotten Hall: 160 (6%)<br />Adventure
-          Rewards: 125 (5%)<br />Other: 0 (2%)<br />
+          Forgotten Hall: 960 (28%)<br />Daily Activity: 900 (26%)<br />Simulated
+          Universe: 570 (16%)<br />Mail: 450 (13%)<br />Event: 350 (10%)<br />Adventure
+          Rewards: 140 (4%)<br />Other: 0 (3%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1018</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Scalegorge Tidalflow (XII)</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>36</td>
       </tr>
     </table>
   </div>
@@ -5538,11 +5559,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1012</td>
+        <td>1014</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>969</td>
+        <td>970</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6119,7 +6140,7 @@
           />
           Primogems earned
         </td>
-        <td>2641 (rate -72)</td>
+        <td>3161 (rate -67)</td>
       </tr>
       <tr>
         <td>
@@ -6129,14 +6150,14 @@
           />
           Mora earned
         </td>
-        <td>1568062 (rate -77)</td>
+        <td>1916119 (rate -72)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1160 (44%)<br />Daily Activity: 900 (35%)<br />Events: 140
-          (5%)<br />Adventure: 60 (2%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 381 (14%)<br />
+          Mail: 1180 (38%)<br />Daily Activity: 960 (31%)<br />Events: 560
+          (17%)<br />Adventure: 80 (2%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 381 (12%)<br />
         </td>
       </tr>
     </table>
