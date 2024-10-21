@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 20, 2024 19:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 21, 2024 08:27 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3881 (rate -7)</td>
+        <td>3896 (rate -7)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 1260 (32%)<br />Daily Activity: 1125 (28%)<br />Simulated
+          Forgotten Hall: 1260 (32%)<br />Daily Activity: 1140 (29%)<br />Simulated
           Universe: 780 (20%)<br />Mail: 380 (9%)<br />Event: 300 (7%)<br />Other:
-          1 (4%)<br />Adventure Rewards: 35 (0%)<br />
+          1 (3%)<br />Adventure Rewards: 35 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2863,17 +2863,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -3217,7 +3217,7 @@
           />
           Primogems earned
         </td>
-        <td>76 (rate 7600)</td>
+        <td>3754 (rate 375400)</td>
       </tr>
       <tr>
         <td>
@@ -3227,14 +3227,14 @@
           />
           Mora earned
         </td>
-        <td>91060 (rate 9106000)</td>
+        <td>1444162 (rate 144416200)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 40 (53%)<br />Quests: 30 (40%)<br />Events: 0 (0%)<br />Daily
-          Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0
-          (0%)<br />Mail: 0 (0%)<br />Other: 6 (7%)<br />
+          Mail: 3510 (93%)<br />Adventure: 154 (4%)<br />Daily Activity: 40
+          (1%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 20 (1%)<br />
         </td>
       </tr>
     </table>
@@ -3296,7 +3296,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -3408,7 +3408,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -3576,6 +3576,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Xilonen</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Xilonen</h3></th>
+          <th><h3 align="center">Prototype Rancour</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Xilonen_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/17d4330f0d4cd32c3c05a9b90fc6c7c0.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Lucky Dog<br />1 x The Exile<br />1 x
+                  Scholar<br />2 x Traveling Doctor<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/82f400a36d3d2a7a4c0eefcf8c2b277f.png"
+                    height="18"
+                  />
+                  Lucky Dog's Clover<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/fc33e21b0cc33fbcde060639c347a233.png"
+                    height="18"
+                  />
+                  Exile's Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b07b9bbfae523b1296add313e85e7b17.png"
+                    height="18"
+                  />
+                  Scholar's Clock<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Medicine Pot<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Handkerchief<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Prototype Rancour</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Barbara</b></summary>
       <br />
       <table>
@@ -3630,32 +3742,13 @@
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Lucky Dog<br />3 x Traveling Doctor<br />1
-                  x Scholar<br />
-                </td>
+                <td>Artifacts<br />1 x Traveling Doctor<br /></td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/82f400a36d3d2a7a4c0eefcf8c2b277f.png"
-                    height="18"
-                  />
-                  Lucky Dog's Clover<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b41c99dd498da5b4de31b456a8d1639c.png"
                     height="18"
                   />
-                  Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b07b9bbfae523b1296add313e85e7b17.png"
-                    height="18"
-                  />
-                  Scholar's Clock<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
+                  Traveling Doctor's Owl Feather<br />
                 </td>
               </tr>
               <tr>
@@ -3677,6 +3770,93 @@
               <tr>
                 <td>Level</td>
                 <td>13</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Ningguang</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Ningguang</h3></th>
+          <th><h3 align="center">Apprentice's Notes</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Ningguang_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/facd25922f961d8fbe9ed910688802a6.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Apprentice's Notes</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -3742,15 +3922,9 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x The Exile<br />1 x Traveling Doctor<br />
-                </td>
+                <td>Artifacts<br />1 x Traveling Doctor<br /></td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/fc33e21b0cc33fbcde060639c347a233.png"
-                    height="18"
-                  />
-                  Exile's Feather<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
                     height="18"
                   />
@@ -3792,7 +3966,7 @@
       <table>
         <tr>
           <th><h3 align="center">Kaeya</h3></th>
-          <th><h3 align="center">Prototype Rancour</h3></th>
+          <th><h3 align="center">Dull Blade</h3></th>
         </tr>
         <tr>
           <td>
@@ -3806,7 +3980,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/17d4330f0d4cd32c3c05a9b90fc6c7c0.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/cd92326fe97fcca5688286ce1c952982.png"
                 height="250"
               />
             </p>
@@ -3854,15 +4028,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Prototype Rancour</td>
+                <td>Dull Blade</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -4270,93 +4444,6 @@
                   />
                   Traveling Doctor's Medicine Pot<br />
                 </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Ningguang</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Ningguang_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/facd25922f961d8fbe9ed910688802a6.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br /></td>
-                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
