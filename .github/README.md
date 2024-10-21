@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 21, 2024 08:27 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 21, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>199</td>
+        <td>200</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -51,7 +51,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>319</td>
+        <td>320</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3896 (rate -7)</td>
+        <td>4166 (rate -1)</td>
       </tr>
       <tr>
         <td>
@@ -78,14 +78,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>16 (rate -42)</td>
+        <td>17 (rate -39)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 1260 (32%)<br />Daily Activity: 1140 (29%)<br />Simulated
-          Universe: 780 (20%)<br />Mail: 380 (9%)<br />Event: 300 (7%)<br />Other:
-          1 (3%)<br />Adventure Rewards: 35 (0%)<br />
+          Forgotten Hall: 1260 (30%)<br />Daily Activity: 1185 (28%)<br />Simulated
+          Universe: 1005 (24%)<br />Mail: 380 (9%)<br />Event: 300 (7%)<br />Other:
+          1 (2%)<br />Adventure Rewards: 35 (0%)<br />
         </td>
       </tr>
     </table>
@@ -2890,19 +2890,19 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>57</td>
+        <td>63</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>36</td>
+        <td>37</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>-</td>
+        <td>1-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2914,7 +2914,7 @@
       </tr>
       <tr>
         <td>Dendroculi</td>
-        <td>0</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Electroculi</td>
@@ -2930,15 +2930,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>98</td>
+        <td>110</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>88</td>
+        <td>94</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2946,15 +2946,15 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>72</td>
+        <td>78</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
     </table>
   </div>
@@ -3110,7 +3110,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/12/" width="80" />
+                <img src="https://progress-bar.xyz/13/" width="80" />
               </td>
             </tr>
             <tr>
