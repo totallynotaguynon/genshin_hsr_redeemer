@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 21, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 22, 2024 08:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Polychromes
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>497</td>
+        <td>498</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3676 (rate -66)</td>
+        <td>3756 (rate -66)</td>
       </tr>
       <tr>
         <td>
@@ -1324,9 +1324,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 960 (26%)<br />Forgotten Hall: 960 (26%)<br />Simulated
-          Universe: 795 (21%)<br />Mail: 450 (12%)<br />Event: 370 (10%)<br />Adventure
-          Rewards: 140 (3%)<br />Other: 1 (2%)<br />
+          Daily Activity: 1020 (27%)<br />Forgotten Hall: 960 (25%)<br />Simulated
+          Universe: 795 (21%)<br />Mail: 470 (12%)<br />Event: 370 (9%)<br />Adventure
+          Rewards: 140 (3%)<br />Other: 1 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5532,17 +5532,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -5563,7 +5563,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>971</td>
+        <td>972</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6140,7 +6140,7 @@
           />
           Primogems earned
         </td>
-        <td>3221 (rate -66)</td>
+        <td>3281 (rate -65)</td>
       </tr>
       <tr>
         <td>
@@ -6150,12 +6150,12 @@
           />
           Mora earned
         </td>
-        <td>1970594 (rate -71)</td>
+        <td>2060319 (rate -70)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1180 (37%)<br />Daily Activity: 1020 (32%)<br />Events: 560
+          Mail: 1180 (36%)<br />Daily Activity: 1080 (33%)<br />Events: 560
           (18%)<br />Adventure: 80 (2%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
           Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 381 (11%)<br />
         </td>
