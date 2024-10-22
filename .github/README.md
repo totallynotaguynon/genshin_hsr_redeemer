@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 22, 2024 08:26 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 22, 2024 19:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -3416,7 +3416,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Adventurer<br />2 x Traveling Doctor<br />
+                  Artifacts<br />1 x Adventurer<br />1 x Instructor<br />1 x The
+                  Exile<br />2 x Traveling Doctor<br />
                 </td>
                 <td>
                   <img
@@ -3424,6 +3425,14 @@
                     height="18"
                   />
                   Adventurer's Flower<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0464f3c020139b4c4756790ee5e8c028.png"
+                    height="18"
+                  />
+                  Instructor's Feather Accessory<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/12263a0e74b28481ea2c78e9b3b5409a.png"
+                    height="18"
+                  />
+                  Exile's Pocket Watch<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
                     height="18"
                   />
@@ -3631,15 +3640,15 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Lucky Dog<br />1 x The Exile<br />1 x
-                  Scholar<br />2 x Traveling Doctor<br />
+                  Artifacts<br />1 x Gladiator's Finale<br />2 x The Exile<br />1
+                  x Scholar<br />1 x Traveling Doctor<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/82f400a36d3d2a7a4c0eefcf8c2b277f.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3e4eb8b65951959604b97f1c38c6d93f.png"
                     height="18"
                   />
-                  Lucky Dog's Clover<br /><img
+                  Gladiator's Nostalgia<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/fc33e21b0cc33fbcde060639c347a233.png"
                     height="18"
                   />
@@ -3652,10 +3661,10 @@
                     height="18"
                   />
                   Traveling Doctor's Medicine Pot<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/ddda951794872d58de8c9a2638521e8a.png"
                     height="18"
                   />
-                  Traveling Doctor's Handkerchief<br />
+                  Exile's Circlet<br />
                 </td>
               </tr>
               <tr>
@@ -4004,7 +4013,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>13</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4029,6 +4038,113 @@
               <tr>
                 <td>Name</td>
                 <td>Dull Blade</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Lisa</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Lisa</h3></th>
+          <th><h3 align="center">Apprentice's Notes</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Lisa_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/facd25922f961d8fbe9ed910688802a6.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Adventurer<br />2 x Traveling Doctor<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4bba018eecd2adde8197932299b28d0e.png"
+                    height="18"
+                  />
+                  Adventurer's Flower<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
+                    height="18"
+                  />
+                  Adventurer's Tail Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Medicine Pot<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Apprentice's Notes</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -4091,7 +4207,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>7</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4160,109 +4276,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Traveler</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Traveler</h3></th>
-          <th><h3 align="center">Silver Sword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7bb5c8ab9a28cd79cc12b5da67eb0dd4.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />1 x Lucky Dog<br />2 x Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/82f400a36d3d2a7a4c0eefcf8c2b277f.png"
-                    height="18"
-                  />
-                  Lucky Dog's Clover<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Handkerchief<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Silver Sword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Xiangling</b></summary>
       <br />
       <table>
@@ -4306,7 +4319,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>4</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4349,113 +4362,6 @@
               <tr>
                 <td>Name</td>
                 <td>Beginner's Protector</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Lisa</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Lisa</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Lisa_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/facd25922f961d8fbe9ed910688802a6.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />2 x Adventurer<br />2 x Traveling Doctor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/4bba018eecd2adde8197932299b28d0e.png"
-                    height="18"
-                  />
-                  Adventurer's Flower<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/6a37c0e21eb07f71ac2e7a7f5403f98a.png"
-                    height="18"
-                  />
-                  Adventurer's Tail Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b14200c1bd154aa54c0f63fd4d6b593a.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -4518,7 +4424,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4605,7 +4511,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4692,7 +4598,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4779,7 +4685,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4866,7 +4772,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Friendship</td>
@@ -4899,6 +4805,196 @@
               <tr>
                 <td>Level</td>
                 <td>8</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Traveler</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Traveler</h3></th>
+          <th><h3 align="center">Silver Sword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7bb5c8ab9a28cd79cc12b5da67eb0dd4.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>20</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Lucky Dog<br />2 x Traveling Doctor<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/82f400a36d3d2a7a4c0eefcf8c2b277f.png"
+                    height="18"
+                  />
+                  Lucky Dog's Clover<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/9d25a187cfd76497faa25ff2bc751c0f.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8041b86026bca976460d60f135e45daf.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Handkerchief<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Silver Sword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Sayu</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Sayu</h3></th>
+          <th><h3 align="center">Waster Greatsword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Sayu_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/a16f0bd705b7aa5ea0bb1ff0dbfe6408.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Artifacts<br /></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Waster Greatsword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
