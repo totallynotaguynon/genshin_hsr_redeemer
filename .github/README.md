@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 22, 2024 08:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 22, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6888,7 +6888,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>9</td>
+                <td>10</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -13061,7 +13061,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
