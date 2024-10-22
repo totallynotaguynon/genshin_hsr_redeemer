@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 21, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 22, 2024 08:26 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4166 (rate -1)</td>
+        <td>4181 (rate 0)</td>
       </tr>
       <tr>
         <td>
@@ -83,7 +83,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Forgotten Hall: 1260 (30%)<br />Daily Activity: 1185 (28%)<br />Simulated
+          Forgotten Hall: 1260 (30%)<br />Daily Activity: 1200 (28%)<br />Simulated
           Universe: 1005 (24%)<br />Mail: 380 (9%)<br />Event: 300 (7%)<br />Other:
           1 (2%)<br />Adventure Rewards: 35 (0%)<br />
         </td>
@@ -2863,17 +2863,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>21</td>
+        <td>22</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          8000 x
+          5 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Mora
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -2890,15 +2890,15 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>63</td>
+        <td>64</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>37</td>
+        <td>38</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
@@ -2930,11 +2930,11 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>110</td>
+        <td>111</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>94</td>
+        <td>95</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -3217,7 +3217,7 @@
           />
           Primogems earned
         </td>
-        <td>3754 (rate 375400)</td>
+        <td>3776 (rate 377600)</td>
       </tr>
       <tr>
         <td>
@@ -3227,14 +3227,14 @@
           />
           Mora earned
         </td>
-        <td>1444162 (rate 144416200)</td>
+        <td>1493017 (rate 149301700)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 3510 (93%)<br />Adventure: 154 (4%)<br />Daily Activity: 40
+          Mail: 3510 (93%)<br />Adventure: 161 (4%)<br />Daily Activity: 50
           (1%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 20 (1%)<br />
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 25 (1%)<br />
         </td>
       </tr>
     </table>
