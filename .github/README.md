@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 23, 2024 08:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 23, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>498</td>
+        <td>499</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1292,7 +1292,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>560</td>
+        <td>562</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3756 (rate -66)</td>
+        <td>5103 (rate -53)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>14 (rate -62)</td>
+        <td>16 (rate -56)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1020 (27%)<br />Forgotten Hall: 960 (25%)<br />Simulated
-          Universe: 795 (21%)<br />Mail: 470 (12%)<br />Event: 370 (9%)<br />Adventure
-          Rewards: 140 (3%)<br />Other: 1 (3%)<br />
+          Simulated Universe: 1450 (28%)<br />Daily Activity: 1080 (21%)<br />Mail:
+          1070 (20%)<br />Forgotten Hall: 960 (18%)<br />Event: 390 (7%)<br />Other:
+          3 (4%)<br />Adventure Rewards: 150 (2%)<br />
         </td>
       </tr>
     </table>
@@ -3951,7 +3951,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -4501,7 +4501,7 @@
               </tr>
               <tr>
                 <td>Eidolon</td>
-                <td>4</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Relics</td>
@@ -5559,11 +5559,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1014</td>
+        <td>1020</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>972</td>
+        <td>973</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5571,7 +5571,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>10-3</td>
+        <td>11-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -5599,11 +5599,11 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>2596</td>
+        <td>2597</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1950</td>
+        <td>1954</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6140,7 +6140,7 @@
           />
           Primogems earned
         </td>
-        <td>3281 (rate -65)</td>
+        <td>4713 (rate -51)</td>
       </tr>
       <tr>
         <td>
@@ -6150,14 +6150,14 @@
           />
           Mora earned
         </td>
-        <td>2060319 (rate -70)</td>
+        <td>3183086 (rate -54)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1180 (36%)<br />Daily Activity: 1080 (33%)<br />Events: 560
-          (18%)<br />Adventure: 80 (2%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 381 (11%)<br />
+          Mail: 1180 (26%)<br />Daily Activity: 1140 (25%)<br />Quests: 710
+          (15%)<br />Spiral Abyss: 600 (12%)<br />Events: 560 (11%)<br />Adventure:
+          142 (3%)<br />Imaginarium Theater: 0 (0%)<br />Other: 381 (8%)<br />
         </td>
       </tr>
     </table>
