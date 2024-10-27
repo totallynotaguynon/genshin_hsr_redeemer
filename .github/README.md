@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 26, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 27, 2024 08:46 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/86e1f7a5ff283d527bbc019475847174_6873942739037299410.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
             height="20"
           />
-          Senior Investigator Logs
+          W-Engine Energy Modules
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>97</td>
+        <td>98</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -54,7 +54,7 @@
       </tr>
       <tr>
         <td>Count Achievement</td>
-        <td>173</td>
+        <td>174</td>
       </tr>
     </table>
   </div>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
             height="20"
           />
-          Disposable Kinetic Arm
+          Refined Aether
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>501</td>
+        <td>502</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>5273 (rate -52)</td>
+        <td>5333 (rate -51)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>19 (rate -48)</td>
+        <td>20 (rate -45)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 1450 (27%)<br />Daily Activity: 1200 (22%)<br />Mail:
-          1120 (21%)<br />Forgotten Hall: 960 (18%)<br />Event: 390 (7%)<br />Other:
-          3 (3%)<br />Adventure Rewards: 150 (2%)<br />
+          Simulated Universe: 1450 (27%)<br />Daily Activity: 1260 (23%)<br />Mail:
+          1120 (21%)<br />Forgotten Hall: 960 (18%)<br />Event: 390 (7%)<br />Adventure
+          Rewards: 150 (2%)<br />Other: 3 (2%)<br />
         </td>
       </tr>
     </table>
@@ -5532,17 +5532,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
             height="20"
           />
-          Hero's Wit
+          Almond Tofu
         </td>
       </tr>
     </table>
@@ -8673,7 +8673,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
