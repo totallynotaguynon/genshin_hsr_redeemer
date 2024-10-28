@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 27, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 28, 2024 08:45 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/6ef3e419022c871257a936b1857ac9d1_7183854527138136141.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Energy Modules
+          Dennies
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>98</td>
+        <td>99</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -54,7 +54,7 @@
       </tr>
       <tr>
         <td>Count Achievement</td>
-        <td>174</td>
+        <td>177</td>
       </tr>
     </table>
   </div>
@@ -608,11 +608,80 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>56</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Mindscape</td>
                 <td>6</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Piper Wheel </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Piper Wheel</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1281.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rank</td>
+                <td>
+                  <img
+                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Faction</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf71ib/1799ba1a46db2749598512d842085776.png"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Attribute</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr></tr>
+              <tr>
+                <td>Specialty</td>
+                <td>
+                  <img
+                    src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Mindscape</td>
+                <td>2</td>
               </tr>
             </table>
           </td>
@@ -751,75 +820,6 @@
               <tr>
                 <td>Mindscape</td>
                 <td>5</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Piper Wheel </b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3>Piper Wheel</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/game_record/zzz/role_square_avatar/role_square_avatar_1281.png"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rank</td>
-                <td>
-                  <img
-                    src="https://act.hoyolab.com/app/mihoyo-zzz-game-record/images/rarity-a-icon.c9179f22.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Faction</td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/nap/prod_gf_cn/item_icon_uf71ib/1799ba1a46db2749598512d842085776.png"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Attribute</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconPhysical.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr></tr>
-              <tr>
-                <td>Specialty</td>
-                <td>
-                  <img
-                    src="https://api.hakush.in/zzz/UI/IconAnomaly.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Mindscape</td>
-                <td>2</td>
               </tr>
             </table>
           </td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
             height="20"
           />
-          Refined Aether
+          Lost Crystal
         </td>
       </tr>
     </table>
@@ -5532,17 +5532,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>26</td>
+        <td>27</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Almond Tofu
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -6140,7 +6140,7 @@
           />
           Primogems earned
         </td>
-        <td>5214 (rate -45)</td>
+        <td>5274 (rate -45)</td>
       </tr>
       <tr>
         <td>
@@ -6150,13 +6150,13 @@
           />
           Mora earned
         </td>
-        <td>3625561 (rate -48)</td>
+        <td>3723336 (rate -47)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1320 (26%)<br />Mail: 1180 (23%)<br />Events: 880
-          (17%)<br />Quests: 710 (14%)<br />Spiral Abyss: 600 (11%)<br />Adventure:
+          Daily Activity: 1380 (27%)<br />Mail: 1180 (23%)<br />Events: 880
+          (17%)<br />Quests: 710 (13%)<br />Spiral Abyss: 600 (11%)<br />Adventure:
           142 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 382 (7%)<br />
         </td>
       </tr>
@@ -6383,7 +6383,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>80</td>
+                <td>90</td>
               </tr>
               <tr>
                 <td>Refinement</td>
