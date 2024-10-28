@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 28, 2024 08:45 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 28, 2024 19:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,19 +1284,19 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>503</td>
+        <td>504</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
-        <td>42</td>
+        <td>43</td>
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>565</td>
+        <td>574</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
-        <td>836</td>
+        <td>853</td>
       </tr>
     </table>
   </div>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>6110 (rate -44)</td>
+        <td>7725 (rate -30)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>24 (rate -35)</td>
+        <td>28 (rate -24)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 2080 (34%)<br />Daily Activity: 1320 (21%)<br />Mail:
-          1120 (18%)<br />Forgotten Hall: 960 (15%)<br />Event: 390 (6%)<br />Adventure
-          Rewards: 235 (3%)<br />Other: 5 (3%)<br />
+          Simulated Universe: 2080 (26%)<br />Forgotten Hall: 1520 (19%)<br />Daily
+          Activity: 1380 (17%)<br />Mail: 1120 (14%)<br />Adventure Rewards: 950
+          (12%)<br />Event: 670 (8%)<br />Other: 5 (4%)<br />
         </td>
       </tr>
     </table>
@@ -2353,6 +2353,117 @@
               <tr>
                 <td>Superimpose</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Rappa </b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3>Rappa</h3></th>
+          <th><h3>Eternal Calculus</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/356594258da21be7c75438327318e53a.png"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/59df0cbc2b04a46431248523b789a52d.png"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Eidolon</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>Relics</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/072eb0ddee04a872a5a57c7f5615858b.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Homing Helm<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/369afb6546e19dda03bad5acfa65fe58.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Crushing Wristguard<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/c4d17d2e18148a7318ca7aa1c71d3b8a.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Silvery Armor<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/0c511b803879d172a1e7846d8129aa81.png"
+                    ,
+                    height="18"
+                  />
+                  Iron Cavalry's Skywalk Greaves<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Planar</td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/b81e4fa37315e0735f7834956cb34a3a.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Nailscrap Town<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uc7epc/60a69e15e2e3082c7e83ee0f0095c20b.png"
+                    ,
+                    height="18"
+                  />
+                  Talia's Exposed Electric Wire<br />
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Eternal Calculus</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Superimpose</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -5563,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>976</td>
+        <td>977</td>
       </tr>
       <tr>
         <td>Characters</td>
