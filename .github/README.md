@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 29, 2024 08:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 29, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>504</td>
+        <td>505</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1292,7 +1292,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>575</td>
+        <td>578</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>7810 (rate -29)</td>
+        <td>8170 (rate -26)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>28 (rate -24)</td>
+        <td>32 (rate -13)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 2080 (26%)<br />Forgotten Hall: 1600 (20%)<br />Daily
-          Activity: 1380 (17%)<br />Mail: 1120 (14%)<br />Adventure Rewards: 955
-          (12%)<br />Event: 670 (8%)<br />Other: 5 (3%)<br />
+          Simulated Universe: 2080 (25%)<br />Forgotten Hall: 1600 (19%)<br />Daily
+          Activity: 1440 (17%)<br />Mail: 1120 (13%)<br />Adventure Rewards: 995
+          (12%)<br />Event: 930 (11%)<br />Other: 5 (3%)<br />
         </td>
       </tr>
     </table>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>5334 (rate -44)</td>
+        <td>5394 (rate -43)</td>
       </tr>
       <tr>
         <td>
@@ -6261,12 +6261,12 @@
           />
           Mora earned
         </td>
-        <td>3797811 (rate -46)</td>
+        <td>3880534 (rate -44)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1440 (27%)<br />Mail: 1180 (23%)<br />Events: 880
+          Daily Activity: 1500 (28%)<br />Mail: 1180 (22%)<br />Events: 880
           (17%)<br />Quests: 710 (13%)<br />Spiral Abyss: 600 (11%)<br />Adventure:
           142 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 382 (7%)<br />
         </td>
