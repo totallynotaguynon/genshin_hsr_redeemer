@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 28, 2024 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 29, 2024 08:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/5dc8f83551ad36b7c1ec57f2e4f223d1_6882324669759105258.png"
             height="20"
           />
-          Dennies
+          Ether Plating Agents
         </td>
       </tr>
     </table>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
             height="20"
           />
-          Lost Crystal
+          Traveler's Guide
         </td>
       </tr>
     </table>
@@ -1292,7 +1292,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>574</td>
+        <td>575</td>
       </tr>
       <tr>
         <td>Chests Opened</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>7725 (rate -30)</td>
+        <td>7810 (rate -29)</td>
       </tr>
       <tr>
         <td>
@@ -1324,9 +1324,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 2080 (26%)<br />Forgotten Hall: 1520 (19%)<br />Daily
-          Activity: 1380 (17%)<br />Mail: 1120 (14%)<br />Adventure Rewards: 950
-          (12%)<br />Event: 670 (8%)<br />Other: 5 (4%)<br />
+          Simulated Universe: 2080 (26%)<br />Forgotten Hall: 1600 (20%)<br />Daily
+          Activity: 1380 (17%)<br />Mail: 1120 (14%)<br />Adventure Rewards: 955
+          (12%)<br />Event: 670 (8%)<br />Other: 5 (3%)<br />
         </td>
       </tr>
     </table>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          Adventurer's Experience
+          Hero's Wit
         </td>
       </tr>
     </table>
@@ -5674,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>977</td>
+        <td>978</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>5274 (rate -45)</td>
+        <td>5334 (rate -44)</td>
       </tr>
       <tr>
         <td>
@@ -6261,12 +6261,12 @@
           />
           Mora earned
         </td>
-        <td>3723336 (rate -47)</td>
+        <td>3797811 (rate -46)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1380 (27%)<br />Mail: 1180 (23%)<br />Events: 880
+          Daily Activity: 1440 (27%)<br />Mail: 1180 (23%)<br />Events: 880
           (17%)<br />Quests: 710 (13%)<br />Spiral Abyss: 600 (11%)<br />Adventure:
           142 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 382 (7%)<br />
         </td>
