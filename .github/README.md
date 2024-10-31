@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 31, 2024 08:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 31, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>506</td>
+        <td>507</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -5674,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>980</td>
+        <td>981</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -7181,7 +7181,7 @@
       <table>
         <tr>
           <th><h3 align="center">Kamisato Ayaka</h3></th>
-          <th><h3 align="center">Mistsplitter Reforged</h3></th>
+          <th><h3 align="center">Lion's Roar</h3></th>
         </tr>
         <tr>
           <td>
@@ -7195,7 +7195,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2b41356fb8c4936d56c0a380e0608069.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0584ac0303e758aec505be2667b2748c.png"
                 height="250"
               />
             </p>
@@ -7268,11 +7268,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Mistsplitter Reforged</td>
+                <td>Lion's Roar</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -7280,7 +7280,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>1</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -8189,7 +8189,7 @@
       <table>
         <tr>
           <th><h3 align="center">Clorinde</h3></th>
-          <th><h3 align="center">Lion's Roar</h3></th>
+          <th><h3 align="center">Mistsplitter Reforged</h3></th>
         </tr>
         <tr>
           <td>
@@ -8203,7 +8203,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0584ac0303e758aec505be2667b2748c.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2b41356fb8c4936d56c0a380e0608069.png"
                 height="250"
               />
             </p>
@@ -8276,11 +8276,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Lion's Roar</td>
+                <td>Mistsplitter Reforged</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -8288,7 +8288,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -8903,7 +8903,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Gladiator's Finale<br />2 x Marechaussee
+                  Artifacts<br />1 x Gladiator's Finale<br />2 x Marechaussee
                   Hunter<br />
                 </td>
                 <td>
@@ -8912,10 +8912,6 @@
                     height="18"
                   />
                   Gladiator's Nostalgia<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/5b2a5c0d262ab519130653d0461d4a8f.png"
-                    height="18"
-                  />
-                  Gladiator's Destiny<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/55bc70c5c27517ec5698828527665634.png"
                     height="18"
                   />
@@ -9282,6 +9278,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Dehya</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Dehya</h3></th>
+          <th><h3 align="center">Sacrificial Greatsword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Dehya_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/aadccc425c46aab0e614228979d06f7f.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Tenacity of the Millelith<br />2 x
+                  Vourukasha's Glow<br />1 x Fragment of Harmonic Whimsy<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/f6b3db87ce42daffaf795d089e21bcf1.png"
+                    height="18"
+                  />
+                  Flower of Accolades<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7ee1f80c80bd6686d297397b12d40417.png"
+                    height="18"
+                  />
+                  Vibrant Pinion<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7241164485f5f54eba063c710a4e0937.png"
+                    height="18"
+                  />
+                  Ancient Abscission<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/207dffcec1a67d05dd351fea7a4d4a8d.png"
+                    height="18"
+                  />
+                  Noble's Pledging Vessel<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/76fea6220a6e934bbcdcd5cae8ed0ff6.png"
+                    height="18"
+                  />
+                  Whimsical Dance of the Withered<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Sacrificial Greatsword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Barbara</b></summary>
       <br />
       <table>
@@ -9507,7 +9615,7 @@
       <table>
         <tr>
           <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Skyward Atlas</h3></th>
+          <th><h3 align="center">Solar Pearl</h3></th>
         </tr>
         <tr>
           <td>
@@ -9521,7 +9629,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/b4a6e96b1f401387d079d781857e83ad.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/641f46069d8919ae37490033392f684d.png"
                 height="250"
               />
             </p>
@@ -9557,8 +9665,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Shimenawa's Reminiscence<br />1 x Crimson
-                  Witch of Flames<br />1 x Thundersoother<br />
+                  Artifacts<br />1 x Shimenawa's Reminiscence<br />3 x
+                  Gladiator's Finale<br />1 x Thundersoother<br />
                 </td>
                 <td>
                   <img
@@ -9566,18 +9674,22 @@
                     height="18"
                   />
                   Entangling Bloom<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2f33dc8532c92a0a8a9fa2f9fcecc418.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/5b2a5c0d262ab519130653d0461d4a8f.png"
                     height="18"
                   />
-                  Witch's End Time<br /><img
+                  Gladiator's Destiny<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/c301597f000716f69098768c2e2a1c7c.png"
+                    height="18"
+                  />
+                  Gladiator's Longing<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/631d61f8dccf58a54f7b7194c497f87d.png"
                     height="18"
                   />
                   Thundersoother's Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/19231e45ca03fbfbdf3cbc96fd586296.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3b60b86fb775145fa84a0264140b6fba.png"
                     height="18"
                   />
-                  Capricious Visage<br />
+                  Gladiator's Triumphus<br />
                 </td>
               </tr>
               <tr>
@@ -9590,15 +9702,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Skyward Atlas</td>
+                <td>Solar Pearl</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -9906,114 +10018,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Dehya</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Dehya</h3></th>
-          <th><h3 align="center">Sacrificial Greatsword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Dehya_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/aadccc425c46aab0e614228979d06f7f.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />3 x Vourukasha's Glow<br />1 x Noblesse
-                  Oblige<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/5b7d3b646f45dc7247b7d6f1c6c1029d.png"
-                    height="18"
-                  />
-                  Stamen of Khvarena's Origin<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7ee1f80c80bd6686d297397b12d40417.png"
-                    height="18"
-                  />
-                  Vibrant Pinion<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/7241164485f5f54eba063c710a4e0937.png"
-                    height="18"
-                  />
-                  Ancient Abscission<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/1d715ae6cfa8548cad22569939bf0b50.png"
-                    height="18"
-                  />
-                  Royal Masque<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Sacrificial Greatsword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>5</td>
               </tr>
             </table>
           </td>
@@ -10395,7 +10399,7 @@
       <table>
         <tr>
           <th><h3 align="center">Fischl</h3></th>
-          <th><h3 align="center">End of the Line</h3></th>
+          <th><h3 align="center">The Stringless</h3></th>
         </tr>
         <tr>
           <td>
@@ -10409,7 +10413,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/fd0f34602f922169cc4abfe33d45a92e.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/91a39199ff740a5ca2523bd9fa58b7f6.png"
                 height="250"
               />
             </p>
@@ -10445,23 +10449,31 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x
-                  Viridescent Venerer<br />1 x Maiden Beloved<br />
+                  Artifacts<br />4 x Golden Troupe<br />1 x Viridescent
+                  Venerer<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/61f1dfc18aabcc6ad9298819e559a811.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8d979c678d5219a22fdfa17dd3a55279.png"
                     height="18"
                   />
-                  Morning Dew's Moment<br /><img
+                  Golden Song's Variation<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/d22129cdf972a86520cdfa716ffa8cfe.png"
+                    height="18"
+                  />
+                  Golden Bird's Shedding<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/8a5901351a8bcc672d6215fe5b5e762d.png"
+                    height="18"
+                  />
+                  Golden Era's Prelude<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/d83f8207cd9968a77d591fb989823a64.png"
                     height="18"
                   />
                   Viridescent Venerer's Vessel<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/293209010409b5dcb3edae269dae405f.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/fb54cc36da49fefcd9c8a28c28940f3e.png"
                     height="18"
                   />
-                  Maiden's Fading Beauty<br />
+                  Golden Troupe's Reward<br />
                 </td>
               </tr>
               <tr>
@@ -10474,7 +10486,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>End of the Line</td>
+                <td>The Stringless</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -10482,7 +10494,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>1</td>
+                <td>80</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -12097,7 +12109,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x
+                  Artifacts<br />3 x Shimenawa's Reminiscence<br />1 x
                   Gladiator's Finale<br />1 x Pale Flame<br />
                 </td>
                 <td>
@@ -12118,10 +12130,10 @@
                     height="18"
                   />
                   Surpassing Cup<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/3b60b86fb775145fa84a0264140b6fba.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/19231e45ca03fbfbdf3cbc96fd586296.png"
                     height="18"
                   />
-                  Gladiator's Triumphus<br />
+                  Capricious Visage<br />
                 </td>
               </tr>
               <tr>
