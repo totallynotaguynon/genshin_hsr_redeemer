@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 30, 2024 19:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Oct 31, 2024 08:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>99</td>
+        <td>100</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,7 +1257,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -5643,7 +5643,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -5674,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>979</td>
+        <td>980</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>5394 (rate -43)</td>
+        <td>5894 (rate -38)</td>
       </tr>
       <tr>
         <td>
@@ -6261,14 +6261,14 @@
           />
           Mora earned
         </td>
-        <td>3880534 (rate -44)</td>
+        <td>4310509 (rate -38)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1500 (28%)<br />Mail: 1180 (22%)<br />Events: 880
-          (17%)<br />Quests: 710 (13%)<br />Spiral Abyss: 600 (11%)<br />Adventure:
-          142 (2%)<br />Imaginarium Theater: 0 (0%)<br />Other: 382 (7%)<br />
+          Daily Activity: 1560 (27%)<br />Mail: 1180 (21%)<br />Events: 880
+          (15%)<br />Quests: 710 (12%)<br />Spiral Abyss: 600 (10%)<br />Imaginarium
+          Theater: 440 (7%)<br />Adventure: 142 (2%)<br />Other: 382 (6%)<br />
         </td>
       </tr>
     </table>
