@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 02, 2024 08:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 02, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>508</td>
+        <td>509</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>60 (rate -99)</td>
+        <td>260 (rate -97)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>10 (rate -69)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 60 (100%)<br />Event: 0 (0%)<br />Adventure Rewards: 0
-          (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />Mail:
-          0 (0%)<br />Other: 0 (0%)<br />
+          Event: 140 (53%)<br />Daily Activity: 120 (46%)<br />Other: 0 (1%)<br />Adventure
+          Rewards: 0 (0%)<br />Simulated Universe: 0 (0%)<br />Forgotten Hall: 0
+          (0%)<br />Mail: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -6984,7 +6984,7 @@
       <table>
         <tr>
           <th><h3 align="center">Kamisato Ayaka</h3></th>
-          <th><h3 align="center">Lion's Roar</h3></th>
+          <th><h3 align="center">Mistsplitter Reforged</h3></th>
         </tr>
         <tr>
           <td>
@@ -6998,7 +6998,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0584ac0303e758aec505be2667b2748c.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2b41356fb8c4936d56c0a380e0608069.png"
                 height="250"
               />
             </p>
@@ -7046,11 +7046,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Lion's Roar</td>
+                <td>Mistsplitter Reforged</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -7058,7 +7058,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>5</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -7767,7 +7767,7 @@
       <table>
         <tr>
           <th><h3 align="center">Clorinde</h3></th>
-          <th><h3 align="center">Mistsplitter Reforged</h3></th>
+          <th><h3 align="center">Lion's Roar</h3></th>
         </tr>
         <tr>
           <td>
@@ -7781,7 +7781,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/2b41356fb8c4936d56c0a380e0608069.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue4a0g/0584ac0303e758aec505be2667b2748c.png"
                 height="250"
               />
             </p>
@@ -7829,11 +7829,11 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Mistsplitter Reforged</td>
+                <td>Lion's Roar</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
@@ -7841,7 +7841,7 @@
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>1</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -8157,7 +8157,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -8244,7 +8244,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>6</td>
+                <td>7</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -11293,7 +11293,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -12424,7 +12424,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
