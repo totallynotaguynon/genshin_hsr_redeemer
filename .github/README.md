@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 09, 2024 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 10, 2024 08:43 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>109</td>
+        <td>110</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1485 (rate -84)</td>
+        <td>1685 (rate -82)</td>
       </tr>
       <tr>
         <td>
@@ -1324,8 +1324,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 505 (34%)<br />Daily Activity: 480 (32%)<br />Event:
-          430 (28%)<br />Mail: 70 (4%)<br />Other: 0 (2%)<br />Adventure
+          Simulated Universe: 625 (37%)<br />Daily Activity: 540 (32%)<br />Event:
+          450 (26%)<br />Mail: 70 (4%)<br />Other: 0 (1%)<br />Adventure
           Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>8</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
