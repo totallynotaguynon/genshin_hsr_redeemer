@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 11, 2024 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 12, 2024 08:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>111</td>
+        <td>112</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Adventure Log
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>517</td>
+        <td>518</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1745 (rate -82)</td>
+        <td>2525 (rate -74)</td>
       </tr>
       <tr>
         <td>
@@ -1324,9 +1324,9 @@
       <tr>
         <td>Categories</td>
         <td>
-          Simulated Universe: 625 (35%)<br />Daily Activity: 600 (34%)<br />Event:
-          450 (25%)<br />Mail: 70 (4%)<br />Other: 0 (2%)<br />Adventure
-          Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
+          Forgotten Hall: 720 (28%)<br />Daily Activity: 660 (26%)<br />Simulated
+          Universe: 625 (24%)<br />Event: 450 (17%)<br />Other: 0 (3%)<br />Mail:
+          70 (2%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -1660,16 +1660,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/d05cd520ed2946dfe4f13cedb7651239.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/b54e379f3a0756b262b0d0e864ec274d.png"
                     ,
                     height="18"
                   />
-                  Insumousu's Whalefall Ship<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/8dcfe87229c6612388c4418292b38f29.png"
+                  Vonwacq's Island of Birth<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/171e7096e84e2ac48a8e70611ea379e7.png"
                     ,
                     height="18"
                   />
-                  Insumousu's Frayed Hawser<br />
+                  Vonwacq's Islandic Coast<br />
                 </td>
               </tr>
             </table>
@@ -2659,16 +2659,16 @@
                 <td>Planar</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/5b2957a519046b7867913a9876ea44ca.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/b54e379f3a0756b262b0d0e864ec274d.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/f831bc0f119ecd0537d0d2837e34000d.png"
+                  Vonwacq's Island of Birth<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u764rc/171e7096e84e2ac48a8e70611ea379e7.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  Vonwacq's Islandic Coast<br />
                 </td>
               </tr>
             </table>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>10</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -5674,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>990</td>
+        <td>991</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>760 (rate -87)</td>
+        <td>860 (rate -86)</td>
       </tr>
       <tr>
         <td>
@@ -6261,13 +6261,13 @@
           />
           Mora earned
         </td>
-        <td>460225 (rate -89)</td>
+        <td>887825 (rate -80)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 320 (43%)<br />Daily Activity: 240 (31%)<br />Events: 200
-          (26%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          Mail: 320 (38%)<br />Daily Activity: 300 (35%)<br />Events: 240
+          (27%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
           0 (0%)<br />Adventure: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
