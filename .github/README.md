@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 16, 2024 08:35 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 16, 2024 19:35 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>222</td>
+        <td>223</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1035 (rate -81)</td>
+        <td>1095 (rate -80)</td>
       </tr>
       <tr>
         <td>
@@ -83,7 +83,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 810 (78%)<br />Simulated Universe: 225 (21%)<br />Other:
+          Daily Activity: 870 (79%)<br />Simulated Universe: 225 (20%)<br />Other:
           0 (1%)<br />Event: 0 (0%)<br />Adventure Rewards: 0 (0%)<br />Forgotten
           Hall: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
@@ -2902,7 +2902,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>1-3</td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -3367,7 +3367,7 @@
       <table>
         <tr>
           <th><h3 align="center">Lisa</h3></th>
-          <th><h3 align="center">Eye of Perception</h3></th>
+          <th><h3 align="center">Apprentice's Notes</h3></th>
         </tr>
         <tr>
           <td>
@@ -3381,7 +3381,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/01c99ca648cd00720b3616a9b901cc7b.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/3f4a9a23929dcf9b0cc5e58caf4c93e6.png"
                 height="250"
               />
             </p>
@@ -3450,6 +3450,118 @@
             <table>
               <tr>
                 <td>Name</td>
+                <td>Apprentice's Notes</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Ningguang</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Ningguang</h3></th>
+          <th><h3 align="center">Eye of Perception</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Ningguang_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/01c99ca648cd00720b3616a9b901cc7b.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Archaic Petra<br />1 x The Exile<br />1 x
+                  Lucky Dog<br />1 x Traveling Doctor<br />1 x Berserker<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/743985f672a9c7883522ddb8ca6e9b42.png"
+                    height="18"
+                  />
+                  Flower of Creviced Cliff<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/f717c9c1ddba50cc0301ef4de88e86ba.png"
+                    height="18"
+                  />
+                  Exile's Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/f4a33b179235cad89011e7e4b6aec408.png"
+                    height="18"
+                  />
+                  Lucky Dog's Hourglass<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/b82f875ecdf1134851faf0b0cdeef9fb.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Medicine Pot<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/f48b4848f3cda6565b9b63314fb26571.png"
+                    height="18"
+                  />
+                  Berserker's Battle Mask<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
                 <td>Eye of Perception</td>
               </tr>
               <tr>
@@ -3458,7 +3570,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -4026,110 +4138,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Ningguang</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Ningguang_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/3f4a9a23929dcf9b0cc5e58caf4c93e6.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />1 x Adventurer<br />1 x Traveling Doctor<br />1
-                  x Resolution of Sojourner<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/63dbd743afcab42b7bc0c0d6f71bf06f.png"
-                    height="18"
-                  />
-                  Adventurer's Flower<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/5dfbf13bcc0f4bda857a9b69ecb19ecf.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Owl Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/db530fe91548c8156acc34686d85575a.png"
-                    height="18"
-                  />
-                  Crown of Parting<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Lynette</b></summary>
       <br />
       <table>
@@ -4185,7 +4193,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Lucky Dog<br />1 x Instructor<br />2 x
+                  Artifacts<br />1 x Lucky Dog<br />1 x Instructor<br />1 x
                   Traveling Doctor<br />
                 </td>
                 <td>
@@ -4201,11 +4209,7 @@
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/6773dd4006c7e3131d1ee9f16dc69aa9.png"
                     height="18"
                   />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/b82f875ecdf1134851faf0b0cdeef9fb.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Medicine Pot<br />
+                  Traveling Doctor's Pocket Watch<br />
                 </td>
               </tr>
               <tr>
