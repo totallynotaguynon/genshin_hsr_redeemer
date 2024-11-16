@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 16, 2024 08:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 16, 2024 19:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -6161,26 +6161,26 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/769199b326cf64bf03de63a316b0639e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/997aaba87e2702206e68b9e0e941094a.png"
             ,
             height="18"
           />
-          Xiangling (3)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/1edec7cf3d05084b6bb0aa7835ceacdf.png"
+          Yelan (3)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/8cb6ff185a5d89a5ea73a94facc4dcc1.png"
             ,
             height="18"
           />
-          Furina (3)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/719a2a56f0efaf1e17f02a0a0821163b.png"
+          Bennett (3)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/52e2d34c9b81b4762121363e2b936552.png"
             ,
             height="18"
           />
-          Yae Miko (3)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/c64ec50a99c1c2c55aa72c1bad6f0f05.png"
+          Raiden Shogun (3)<br /><img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/69f9d29d2fc419275a985cc67066df3e.png"
             ,
             height="18"
           />
-          Navia (3)<br />
+          Xilonen (3)<br />
         </td>
       </tr>
       <tr>
