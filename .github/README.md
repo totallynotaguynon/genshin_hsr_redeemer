@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 15, 2024 19:38 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 16, 2024 08:35 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
             height="20"
           />
-          Credit
+          Canned Soda
         </td>
       </tr>
     </table>
@@ -2863,17 +2863,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>3</td>
+        <td>4</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -2894,7 +2894,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>45</td>
+        <td>46</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2910,7 +2910,7 @@
       </tr>
       <tr>
         <td>Geoculi</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Dendroculi</td>
@@ -2934,11 +2934,11 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>153</td>
+        <td>155</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>33</td>
+        <td>34</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -3217,7 +3217,7 @@
           />
           Primogems earned
         </td>
-        <td>924 (rate -78)</td>
+        <td>1183 (rate -72)</td>
       </tr>
       <tr>
         <td>
@@ -3227,14 +3227,14 @@
           />
           Mora earned
         </td>
-        <td>615559 (rate -64)</td>
+        <td>667062 (rate -61)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 645 (70%)<br />Daily Activity: 220 (24%)<br />Quests: 40
-          (4%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Mail: 0 (0%)<br />Other: 19 (2%)<br />
+          Adventure: 754 (64%)<br />Daily Activity: 280 (24%)<br />Mail: 50
+          (5%)<br />Events: 40 (3%)<br />Quests: 40 (3%)<br />Spiral Abyss: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 19 (1%)<br />
         </td>
       </tr>
     </table>
