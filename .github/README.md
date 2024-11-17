@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 16, 2024 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 17, 2024 08:50 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>115</td>
+        <td>116</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Energy Drink (sugar-free)
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>522</td>
+        <td>523</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3025 (rate -68)</td>
+        <td>3165 (rate -67)</td>
       </tr>
       <tr>
         <td>
@@ -1324,8 +1324,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 900 (29%)<br />Forgotten Hall: 720 (23%)<br />Event:
-          690 (22%)<br />Simulated Universe: 625 (20%)<br />Other: 0 (4%)<br />Mail:
+          Daily Activity: 960 (30%)<br />Event: 770 (24%)<br />Forgotten Hall:
+          720 (22%)<br />Simulated Universe: 625 (19%)<br />Other: 0 (3%)<br />Mail:
           90 (2%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
       </tr>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           5 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -6161,11 +6161,11 @@
         <td>most_played</td>
         <td>
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/997aaba87e2702206e68b9e0e941094a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/769199b326cf64bf03de63a316b0639e.png"
             ,
             height="18"
           />
-          Yelan (3)<br /><img
+          Xiangling (3)<br /><img
             src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/8cb6ff185a5d89a5ea73a94facc4dcc1.png"
             ,
             height="18"
@@ -6176,11 +6176,11 @@
             height="18"
           />
           Raiden Shogun (3)<br /><img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/69f9d29d2fc419275a985cc67066df3e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/719a2a56f0efaf1e17f02a0a0821163b.png"
             ,
             height="18"
           />
-          Xilonen (3)<br />
+          Yae Miko (3)<br />
         </td>
       </tr>
       <tr>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>1550 (rate -75)</td>
+        <td>1690 (rate -73)</td>
       </tr>
       <tr>
         <td>
@@ -6261,13 +6261,13 @@
           />
           Mora earned
         </td>
-        <td>1253008 (rate -72)</td>
+        <td>1323008 (rate -71)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 780 (51%)<br />Daily Activity: 430 (28%)<br />Mail: 340
-          (21%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          Events: 920 (55%)<br />Daily Activity: 430 (25%)<br />Mail: 340
+          (20%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
           0 (0%)<br />Adventure: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
