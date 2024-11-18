@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 17, 2024 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 18, 2024 08:48 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
             height="20"
           />
-          Official Investigator Logs
+          W-Engine Power Supplies
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>116</td>
+        <td>117</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>523</td>
+        <td>524</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3165 (rate -67)</td>
+        <td>3315 (rate -65)</td>
       </tr>
       <tr>
         <td>
@@ -1324,8 +1324,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 960 (30%)<br />Event: 770 (24%)<br />Forgotten Hall:
-          720 (22%)<br />Simulated Universe: 625 (19%)<br />Other: 0 (3%)<br />Mail:
+          Daily Activity: 1020 (30%)<br />Event: 860 (25%)<br />Forgotten Hall:
+          720 (21%)<br />Simulated Universe: 625 (18%)<br />Other: 0 (4%)<br />Mail:
           90 (2%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
       </tr>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>1690 (rate -73)</td>
+        <td>1790 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -6261,13 +6261,13 @@
           />
           Mora earned
         </td>
-        <td>1323008 (rate -71)</td>
+        <td>1410483 (rate -69)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 920 (55%)<br />Daily Activity: 430 (25%)<br />Mail: 340
-          (20%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          Events: 960 (54%)<br />Daily Activity: 490 (28%)<br />Mail: 340
+          (18%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
           0 (0%)<br />Adventure: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
@@ -7293,7 +7293,7 @@
       <table>
         <tr>
           <th><h3 align="center">Hu Tao</h3></th>
-          <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
+          <th><h3 align="center">Staff of Homa</h3></th>
         </tr>
         <tr>
           <td>
@@ -7307,7 +7307,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/aee6bd1a109edd4620f2b7674e1d4221.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9182g/40fb548ec5579aa7de9d4afd71fde42d.png"
                 height="250"
               />
             </p>
@@ -7380,7 +7380,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Primordial Jade Winged-Spear</td>
+                <td>Staff of Homa</td>
               </tr>
               <tr>
                 <td>Rarity</td>
