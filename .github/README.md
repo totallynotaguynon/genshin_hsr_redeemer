@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 18, 2024 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 19, 2024 08:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1185 (rate -78)</td>
+        <td>1215 (rate -78)</td>
       </tr>
       <tr>
         <td>
@@ -83,7 +83,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 960 (81%)<br />Simulated Universe: 225 (18%)<br />Other:
+          Daily Activity: 990 (81%)<br />Simulated Universe: 225 (18%)<br />Other:
           0 (1%)<br />Event: 0 (0%)<br />Adventure Rewards: 0 (0%)<br />Forgotten
           Hall: 0 (0%)<br />Mail: 0 (0%)<br />
         </td>
@@ -2863,17 +2863,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
