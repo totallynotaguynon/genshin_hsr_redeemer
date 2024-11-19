@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 18, 2024 19:44 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 19, 2024 08:45 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          3000 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/3b96568c4c9e878c4d2c1bcb1aad95f5_6098291568171604330.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
             height="20"
           />
-          W-Engine Power Supplies
+          Dennies
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>117</td>
+        <td>118</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
             height="20"
           />
-          Condensed Aether
+          Lost Gold Fragment
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>524</td>
+        <td>525</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>3315 (rate -65)</td>
+        <td>3465 (rate -64)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -54)</td>
+        <td>16 (rate -51)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1020 (30%)<br />Event: 860 (25%)<br />Forgotten Hall:
-          720 (21%)<br />Simulated Universe: 625 (18%)<br />Other: 0 (4%)<br />Mail:
-          90 (2%)<br />Adventure Rewards: 0 (0%)<br />
+          Daily Activity: 1080 (31%)<br />Event: 950 (27%)<br />Forgotten Hall:
+          720 (20%)<br />Simulated Universe: 625 (18%)<br />Mail: 90 (2%)<br />Other:
+          0 (2%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>17</td>
+        <td>18</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          20 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
             height="20"
           />
-          Mora
+          Primogem
         </td>
       </tr>
     </table>
@@ -6261,7 +6261,7 @@
           />
           Mora earned
         </td>
-        <td>1410483 (rate -69)</td>
+        <td>1415483 (rate -69)</td>
       </tr>
       <tr>
         <td>Categories</td>
