@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 24, 2024 08:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 24, 2024 19:36 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>230</td>
+        <td>231</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1840 (rate -67)</td>
+        <td>1900 (rate -66)</td>
       </tr>
       <tr>
         <td>
@@ -83,8 +83,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1290 (70%)<br />Mail: 320 (17%)<br />Simulated
-          Universe: 225 (12%)<br />Other: 0 (1%)<br />Event: 0 (0%)<br />Adventure
+          Daily Activity: 1350 (71%)<br />Mail: 320 (16%)<br />Simulated
+          Universe: 225 (11%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
           Rewards: 5 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -2890,7 +2890,7 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>86</td>
+        <td>90</td>
       </tr>
       <tr>
         <td>Days_Active</td>
@@ -2898,11 +2898,11 @@
       </tr>
       <tr>
         <td>Characters</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>3-3</td>
+        <td>4-3</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2930,15 +2930,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>139</td>
+        <td>142</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>163</td>
+        <td>171</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>35</td>
+        <td>36</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2946,15 +2946,15 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>3</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>105</td>
+        <td>110</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
-        <td>15</td>
+        <td>16</td>
       </tr>
     </table>
   </div>
@@ -3096,7 +3096,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/0/" width="80" />
+                <img src="https://progress-bar.xyz/2/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3138,7 +3138,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/17/" width="80" />
+                <img src="https://progress-bar.xyz/18/" width="80" />
               </td>
             </tr>
             <tr>
