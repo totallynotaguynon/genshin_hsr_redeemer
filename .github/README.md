@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 24, 2024 19:36 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 25, 2024 08:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -2863,17 +2863,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -3217,7 +3217,7 @@
           />
           Primogems earned
         </td>
-        <td>3142 (rate -25)</td>
+        <td>3479 (rate -17)</td>
       </tr>
       <tr>
         <td>
@@ -3227,14 +3227,14 @@
           />
           Mora earned
         </td>
-        <td>1176452 (rate -32)</td>
+        <td>1454320 (rate -16)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1055 (34%)<br />Mail: 780 (25%)<br />Spiral Abyss: 600
-          (20%)<br />Daily Activity: 400 (12%)<br />Events: 220 (7%)<br />Quests:
-          40 (1%)<br />Imaginarium Theater: 0 (0%)<br />Other: 47 (1%)<br />
+          Adventure: 1111 (32%)<br />Mail: 780 (23%)<br />Spiral Abyss: 600
+          (18%)<br />Daily Activity: 460 (13%)<br />Events: 290 (8%)<br />Quests:
+          190 (5%)<br />Imaginarium Theater: 0 (0%)<br />Other: 48 (1%)<br />
         </td>
       </tr>
     </table>
@@ -3643,7 +3643,7 @@
               <tr>
                 <td>
                   Artifacts<br />1 x Archaic Petra<br />1 x The Exile<br />1 x
-                  Lucky Dog<br />1 x Traveling Doctor<br />
+                  Lucky Dog<br />1 x Traveling Doctor<br />1 x Berserker<br />
                 </td>
                 <td>
                   <img
@@ -3662,7 +3662,11 @@
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/97619a53bee33d49ef6b2d94d278cdb8.png"
                     height="18"
                   />
-                  Traveling Doctor's Medicine Pot<br />
+                  Traveling Doctor's Medicine Pot<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/e0815c509b05b1c45aa7b6516845a476.png"
+                    height="18"
+                  />
+                  Berserker's Battle Mask<br />
                 </td>
               </tr>
               <tr>
@@ -4136,7 +4140,7 @@
       <table>
         <tr>
           <th><h3 align="center">Lynette</h3></th>
-          <th><h3 align="center">Sacrificial Sword</h3></th>
+          <th><h3 align="center">Skyrider Sword</h3></th>
         </tr>
         <tr>
           <td>
@@ -4150,7 +4154,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/cf3a20ad14d87b2239dde8b79d81b3e7.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/03510aa91eae62a49457a529a6a10564.png"
                 height="250"
               />
             </p>
@@ -4187,7 +4191,7 @@
               <tr>
                 <td>
                   Artifacts<br />1 x Lucky Dog<br />1 x Instructor<br />1 x
-                  Traveling Doctor<br />1 x The Exile<br />1 x Berserker<br />
+                  Traveling Doctor<br />1 x The Exile<br />
                 </td>
                 <td>
                   <img
@@ -4206,11 +4210,7 @@
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/d67a08fddb803ce894b79ac8df763a06.png"
                     height="18"
                   />
-                  Exile's Goblet<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/e0815c509b05b1c45aa7b6516845a476.png"
-                    height="18"
-                  />
-                  Berserker's Battle Mask<br />
+                  Exile's Goblet<br />
                 </td>
               </tr>
               <tr>
@@ -4223,15 +4223,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Sacrificial Sword</td>
+                <td>Skyrider Sword</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>40</td>
+                <td>8</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -4248,7 +4248,7 @@
       <table>
         <tr>
           <th><h3 align="center">Bennett</h3></th>
-          <th><h3 align="center">Skyrider Sword</h3></th>
+          <th><h3 align="center">Sacrificial Sword</h3></th>
         </tr>
         <tr>
           <td>
@@ -4262,7 +4262,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/03510aa91eae62a49457a529a6a10564.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38d4g/cf3a20ad14d87b2239dde8b79d81b3e7.png"
                 height="250"
               />
             </p>
@@ -4335,15 +4335,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Skyrider Sword</td>
+                <td>Sacrificial Sword</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>8</td>
+                <td>40</td>
               </tr>
               <tr>
                 <td>Refinement</td>
