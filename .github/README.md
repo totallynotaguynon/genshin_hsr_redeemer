@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 25, 2024 08:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 25, 2024 19:40 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>231</td>
+        <td>232</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>1900 (rate -66)</td>
+        <td>1960 (rate -64)</td>
       </tr>
       <tr>
         <td>
@@ -83,31 +83,10 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1350 (71%)<br />Mail: 320 (16%)<br />Simulated
+          Daily Activity: 1410 (71%)<br />Mail: 320 (16%)<br />Simulated
           Universe: 225 (11%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
           Rewards: 5 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1018</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Scalegorge Tidalflow (VII)</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>21</td>
       </tr>
     </table>
   </div>
@@ -2890,11 +2869,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>90</td>
+        <td>97</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>48</td>
+        <td>49</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2930,15 +2909,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>142</td>
+        <td>150</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>171</td>
+        <td>174</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>36</td>
+        <td>37</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
