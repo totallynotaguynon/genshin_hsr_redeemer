@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 24, 2024 19:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 25, 2024 08:47 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          1 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/7cb065bb13a5fba94a26302b0db2080c_3875449856155324808.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/86e1f7a5ff283d527bbc019475847174_6873942739037299410.png"
             height="20"
           />
-          Bangboo Algorithm Modules
+          Senior Investigator Logs
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>120</td>
+        <td>121</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Lost Gold Fragment
+          Credit
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>529</td>
+        <td>530</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4025 (rate -58)</td>
+        <td>4085 (rate -58)</td>
       </tr>
       <tr>
         <td>
@@ -1324,31 +1324,10 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1320 (32%)<br />Event: 950 (23%)<br />Forgotten Hall:
+          Daily Activity: 1380 (33%)<br />Event: 950 (23%)<br />Forgotten Hall:
           720 (17%)<br />Simulated Universe: 625 (15%)<br />Mail: 410 (10%)<br />Other:
-          0 (3%)<br />Adventure Rewards: 0 (0%)<br />
+          0 (2%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
-      </tr>
-    </table>
-  </div>
-  <div align="center">
-    <h2>Memory of Chaos</h2>
-    <table>
-      <tr>
-        <td>Season</td>
-        <td>1018</td>
-      </tr>
-      <tr>
-        <td>Max Floor</td>
-        <td>Scalegorge Tidalflow (XII)</td>
-      </tr>
-      <tr>
-        <td>Total Battles</td>
-        <td>6</td>
-      </tr>
-      <tr>
-        <td>Total Stars</td>
-        <td>36</td>
       </tr>
     </table>
   </div>
@@ -5643,17 +5622,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -5670,11 +5649,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>1021</td>
+        <td>1022</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1002</td>
+        <td>1003</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5714,7 +5693,7 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1954</td>
+        <td>1956</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -5730,7 +5709,7 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>505</td>
+        <td>511</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -6251,7 +6230,7 @@
           />
           Primogems earned
         </td>
-        <td>2700 (rate -57)</td>
+        <td>2827 (rate -55)</td>
       </tr>
       <tr>
         <td>
@@ -6261,14 +6240,14 @@
           />
           Mora earned
         </td>
-        <td>1794647 (rate -60)</td>
+        <td>1893120 (rate -58)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1020 (38%)<br />Events: 960 (36%)<br />Daily Activity: 670
-          (24%)<br />Adventure: 45 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 5 (1%)<br />
+          Mail: 1020 (37%)<br />Events: 980 (34%)<br />Daily Activity: 730
+          (25%)<br />Adventure: 90 (3%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
     </table>
