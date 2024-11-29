@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 28, 2024 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 29, 2024 08:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -2911,17 +2911,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -2938,11 +2938,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>97</td>
+        <td>100</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>49</td>
+        <td>50</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2974,19 +2974,19 @@
       </tr>
       <tr>
         <td>Pyroculi</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>150</td>
+        <td>154</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>174</td>
+        <td>179</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>37</td>
+        <td>38</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2994,11 +2994,11 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>110</td>
+        <td>112</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -3265,7 +3265,7 @@
           />
           Primogems earned
         </td>
-        <td>3479 (rate -17)</td>
+        <td>3845 (rate -9)</td>
       </tr>
       <tr>
         <td>
@@ -3275,14 +3275,14 @@
           />
           Mora earned
         </td>
-        <td>1454320 (rate -16)</td>
+        <td>1664663 (rate -4)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1111 (32%)<br />Mail: 780 (23%)<br />Spiral Abyss: 600
-          (18%)<br />Daily Activity: 460 (13%)<br />Events: 290 (8%)<br />Quests:
-          190 (5%)<br />Imaginarium Theater: 0 (0%)<br />Other: 48 (1%)<br />
+          Adventure: 1173 (31%)<br />Mail: 780 (21%)<br />Spiral Abyss: 600
+          (16%)<br />Events: 500 (13%)<br />Daily Activity: 520 (13%)<br />Quests:
+          220 (5%)<br />Imaginarium Theater: 0 (0%)<br />Other: 52 (1%)<br />
         </td>
       </tr>
     </table>
