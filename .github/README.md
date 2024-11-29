@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 29, 2024 08:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 29, 2024 19:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>235</td>
+        <td>236</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2385 (rate -57)</td>
+        <td>2445 (rate -56)</td>
       </tr>
       <tr>
         <td>
@@ -78,13 +78,13 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -48)</td>
+        <td>16 (rate -44)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1590 (66%)<br />Simulated Universe: 450 (18%)<br />Mail:
-          340 (14%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
+          Daily Activity: 1650 (67%)<br />Simulated Universe: 450 (18%)<br />Mail:
+          340 (13%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
           Rewards: 5 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -3577,9 +3577,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Thundering Fury<br />1 x Wanderer's
-                  Troupe<br />1 x Berserker<br />1 x Instructor<br />1 x The
-                  Exile<br />
+                  Artifacts<br />1 x Thundering Fury<br />2 x Wanderer's
+                  Troupe<br />1 x Berserker<br />1 x Instructor<br />
                 </td>
                 <td>
                   <img
@@ -3599,10 +3598,10 @@
                     height="18"
                   />
                   Instructor's Tea Cup<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/2fb1cb32b05622d30e15f46f10f24b98.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/a29b1f991642f13532cf413000a32f31.png"
                     height="18"
                   />
-                  Exile's Circlet<br />
+                  Conductor's Top Hat<br />
                 </td>
               </tr>
               <tr>
@@ -4638,15 +4637,11 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Gladiator's Finale<br />1 x Instructor<br />2
-                  x Traveling Doctor<br />1 x Prayers for Wisdom<br />
+                  Artifacts<br />1 x Instructor<br />2 x Traveling Doctor<br />1
+                  x Prayers for Wisdom<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/917e3f442f9fc54448586dc06f7eefee.png"
-                    height="18"
-                  />
-                  Gladiator's Nostalgia<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9b3241acb2999298cc54d9e798b43f65.png"
                     height="18"
                   />
@@ -5203,7 +5198,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Artifacts<br />2 x Traveling Doctor<br /></td>
