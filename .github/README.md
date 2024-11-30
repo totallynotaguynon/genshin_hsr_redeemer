@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Nov 29, 2024 19:43 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Nov 30, 2024 08:44 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,7 +11,7 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          Traveler's Guide
+          Credit
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>532</td>
+        <td>533</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>4205 (rate -56)</td>
+        <td>5085 (rate -47)</td>
       </tr>
       <tr>
         <td>
@@ -1324,10 +1324,31 @@
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 1500 (35%)<br />Event: 950 (22%)<br />Forgotten Hall:
-          720 (17%)<br />Simulated Universe: 625 (14%)<br />Mail: 410 (9%)<br />Other:
-          0 (3%)<br />Adventure Rewards: 0 (0%)<br />
+          Daily Activity: 1560 (30%)<br />Forgotten Hall: 1360 (26%)<br />Event:
+          1130 (22%)<br />Simulated Universe: 625 (12%)<br />Mail: 410 (8%)<br />Other:
+          0 (2%)<br />Adventure Rewards: 0 (0%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>Memory of Chaos</h2>
+    <table>
+      <tr>
+        <td>Season</td>
+        <td>1019</td>
+      </tr>
+      <tr>
+        <td>Max Floor</td>
+        <td>Dancing with the Dreams Stage 10</td>
+      </tr>
+      <tr>
+        <td>Total Battles</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>Total Stars</td>
+        <td>30</td>
       </tr>
     </table>
   </div>
@@ -5622,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>28</td>
+        <td>29</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Hero's Wit
+          Mora
         </td>
       </tr>
     </table>
@@ -5653,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1006</td>
+        <td>1007</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -6099,7 +6120,7 @@
       </tr>
       <tr>
         <td>Items</td>
-        <td>1398</td>
+        <td>1401</td>
       </tr>
       <tr>
         <td>Visitors</td>
@@ -6230,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>2827 (rate -55)</td>
+        <td>3097 (rate -51)</td>
       </tr>
       <tr>
         <td>
@@ -6240,13 +6261,13 @@
           />
           Mora earned
         </td>
-        <td>1893120 (rate -58)</td>
+        <td>2063595 (rate -54)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1020 (37%)<br />Events: 980 (34%)<br />Daily Activity: 730
-          (25%)<br />Adventure: 90 (3%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+          Events: 1190 (39%)<br />Mail: 1020 (33%)<br />Daily Activity: 790
+          (25%)<br />Adventure: 90 (2%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
           Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
