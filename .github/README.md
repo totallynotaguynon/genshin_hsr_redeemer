@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 01, 2024 08:53 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 01, 2024 19:37 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -2938,11 +2938,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>104</td>
+        <td>113</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>51</td>
+        <td>53</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2950,7 +2950,7 @@
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
-        <td>4-3</td>
+        <td>5-1</td>
       </tr>
       <tr>
         <td>Anemoculi</td>
@@ -2958,11 +2958,11 @@
       </tr>
       <tr>
         <td>Geoculi</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>Dendroculi</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Electroculi</td>
@@ -2970,7 +2970,7 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Pyroculi</td>
@@ -2978,19 +2978,19 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>155</td>
+        <td>164</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>180</td>
+        <td>187</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>38</td>
+        <td>39</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
-        <td>7</td>
+        <td>8</td>
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
@@ -2998,11 +2998,11 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>112</td>
+        <td>118</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
-        <td>16</td>
+        <td>17</td>
       </tr>
     </table>
   </div>
@@ -3186,7 +3186,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/18/" width="80" />
+                <img src="https://progress-bar.xyz/19/" width="80" />
               </td>
             </tr>
             <tr>
