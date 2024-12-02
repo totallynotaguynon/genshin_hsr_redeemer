@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 01, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 02, 2024 08:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -2911,17 +2911,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>1</td>
+        <td>2</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
             height="20"
           />
-          Adventurer's Experience
+          Fine Enhancement Ore
         </td>
       </tr>
     </table>
@@ -2954,7 +2954,7 @@
       </tr>
       <tr>
         <td>Anemoculi</td>
-        <td>38</td>
+        <td>39</td>
       </tr>
       <tr>
         <td>Geoculi</td>
@@ -2978,15 +2978,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>164</td>
+        <td>166</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>187</td>
+        <td>192</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>39</td>
+        <td>40</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -3200,7 +3200,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/42/" width="80" />
+                <img src="https://progress-bar.xyz/43/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3265,7 +3265,7 @@
           />
           Primogems earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>247 (rate -94)</td>
       </tr>
       <tr>
         <td>
@@ -3275,14 +3275,14 @@
           />
           Mora earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>92052 (rate -95)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
-          (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-          0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+          Adventure: 182 (74%)<br />Daily Activity: 60 (24%)<br />Events: 0
+          (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
+          0 (0%)<br />Mail: 0 (0%)<br />Other: 5 (2%)<br />
         </td>
       </tr>
     </table>
@@ -3465,7 +3465,7 @@
               <tr>
                 <td>
                   Artifacts<br />1 x Blizzard Strayer<br />1 x The Exile<br />2
-                  x Maiden Beloved<br />1 x Prayers for Illumination<br />
+                  x Maiden Beloved<br />1 x Instructor<br />
                 </td>
                 <td>
                   <img
@@ -3485,10 +3485,10 @@
                     height="18"
                   />
                   Maiden's Fleeting Leisure<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/35717f06915212fb763cb96cc9702a3d.png"
                     height="18"
                   />
-                  Tiara of Flame<br />
+                  Instructor's Cap<br />
                 </td>
               </tr>
               <tr>
@@ -3568,7 +3568,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>3</td>
+                <td>4</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -4129,23 +4129,23 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Traveling Doctor<br />1 x Instructor<br />1
-                  x Lucky Dog<br />2 x Adventurer<br />
+                  Artifacts<br />1 x Instructor<br />1 x The Exile<br />1 x
+                  Traveling Doctor<br />2 x Adventurer<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/34c77fa512a60c0efcc21af6fb0c11b7.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/28d6ab8b67649d0f4f292fd75f78d0a7.png"
                     height="18"
                   />
-                  Traveling Doctor's Silver Lotus<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9b3241acb2999298cc54d9e798b43f65.png"
+                  Instructor's Brooch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/05784b6017e89ea53c66d04f16c09423.png"
                     height="18"
                   />
-                  Instructor's Feather Accessory<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/cfe4d2f009967d735c0f923d6de220ea.png"
+                  Exile's Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/6b8ff5e82dabddfa1e44e7722610aa03.png"
                     height="18"
                   />
-                  Lucky Dog's Hourglass<br /><img
+                  Traveling Doctor's Pocket Watch<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9279343e1022b7ded647914769bd2d27.png"
                     height="18"
                   />
@@ -4403,7 +4403,7 @@
       <table>
         <tr>
           <th><h3 align="center">Lynette</h3></th>
-          <th><h3 align="center">Skyrider Sword</h3></th>
+          <th><h3 align="center">Harbinger of Dawn</h3></th>
         </tr>
         <tr>
           <td>
@@ -4417,7 +4417,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/72038f3eb93190c253d6ee257ca3c561.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/90376e0a209a6bf5db76bce00fb28358.png"
                 height="250"
               />
             </p>
@@ -4454,7 +4454,8 @@
               <tr>
                 <td>
                   Artifacts<br />1 x Berserker<br />1 x The Exile<br />1 x
-                  Traveling Doctor<br />1 x Instructor<br />
+                  Scholar<br />1 x Instructor<br />1 x Prayers for
+                  Illumination<br />
                 </td>
                 <td>
                   <img
@@ -4466,14 +4467,18 @@
                     height="18"
                   />
                   Exile's Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/6b8ff5e82dabddfa1e44e7722610aa03.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/5fecd6d16c3708e9310ce4119921b0a1.png"
                     height="18"
                   />
-                  Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/35717f06915212fb763cb96cc9702a3d.png"
+                  Scholar's Clock<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/fce28e96a469dc3f961015c6202d9dba.png"
                     height="18"
                   />
-                  Instructor's Cap<br />
+                  Instructor's Tea Cup<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
+                    height="18"
+                  />
+                  Tiara of Flame<br />
                 </td>
               </tr>
               <tr>
@@ -4486,7 +4491,7 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Skyrider Sword</td>
+                <td>Harbinger of Dawn</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -4494,7 +4499,7 @@
               </tr>
               <tr>
                 <td>Level</td>
-                <td>8</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
