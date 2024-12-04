@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 04, 2024 08:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 04, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
