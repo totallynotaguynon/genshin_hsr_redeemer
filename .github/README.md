@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 05, 2024 19:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 06, 2024 08:48 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/44b4b886ce242797a4d6e4b7d3c349b0_5514956065044058103.png"
             height="20"
           />
-          Polychromes
+          Official Investigator Logs
         </td>
       </tr>
     </table>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Sweet Madame
+          Adventurer's Experience
         </td>
       </tr>
     </table>
@@ -5674,7 +5674,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1010</td>
+        <td>1011</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -5714,7 +5714,7 @@
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>1956</td>
+        <td>1958</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>490 (rate -84)</td>
+        <td>880 (rate -71)</td>
       </tr>
       <tr>
         <td>
@@ -6261,14 +6261,14 @@
           />
           Mora earned
         </td>
-        <td>154475 (rate -92)</td>
+        <td>415029 (rate -79)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 220 (45%)<br />Events: 210 (43%)<br />Daily Activity: 60
-          (12%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests:
-          0 (0%)<br />Adventure: 0 (0%)<br />Other: 0 (0%)<br />
+          Mail: 420 (48%)<br />Events: 210 (24%)<br />Daily Activity: 120
+          (14%)<br />Quests: 120 (13%)<br />Adventure: 10 (1%)<br />Spiral
+          Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 0 (0%)<br />
         </td>
       </tr>
     </table>
