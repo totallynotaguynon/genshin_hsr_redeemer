@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 06, 2024 19:40 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 07, 2024 08:39 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Adventure Log
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -2911,17 +2911,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -2942,7 +2942,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>54</td>
+        <td>55</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2978,15 +2978,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>166</td>
+        <td>167</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>193</td>
+        <td>199</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>40</td>
+        <td>42</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2998,11 +2998,11 @@
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>119</td>
+        <td>121</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
-        <td>18</td>
+        <td>19</td>
       </tr>
     </table>
   </div>
@@ -3186,7 +3186,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/19/" width="80" />
+                <img src="https://progress-bar.xyz/20/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3265,7 +3265,7 @@
           />
           Primogems earned
         </td>
-        <td>1041 (rate -77)</td>
+        <td>1344 (rate -70)</td>
       </tr>
       <tr>
         <td>
@@ -3275,13 +3275,13 @@
           />
           Mora earned
         </td>
-        <td>256670 (rate -87)</td>
+        <td>366933 (rate -82)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 420 (41%)<br />Spiral Abyss: 300 (29%)<br />Adventure: 194
-          (18%)<br />Daily Activity: 120 (11%)<br />Events: 0 (0%)<br />Imaginarium
+          Mail: 620 (47%)<br />Spiral Abyss: 300 (22%)<br />Adventure: 237
+          (17%)<br />Daily Activity: 180 (13%)<br />Events: 0 (0%)<br />Imaginarium
           Theater: 0 (0%)<br />Quests: 0 (0%)<br />Other: 7 (1%)<br />
         </td>
       </tr>
@@ -3344,7 +3344,7 @@
               </tr>
               <tr>
                 <td>Friendship</td>
-                <td>5</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>Constellation</td>
@@ -3463,33 +3463,8 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Blizzard Strayer<br />1 x The Exile<br />1
-                  x Scholar<br />1 x Maiden Beloved<br />1 x Instructor<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/dfb88e1b9efc9884b79316c9235f169d.png"
-                    height="18"
-                  />
-                  Snowswept Memory<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/05784b6017e89ea53c66d04f16c09423.png"
-                    height="18"
-                  />
-                  Exile's Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/5fecd6d16c3708e9310ce4119921b0a1.png"
-                    height="18"
-                  />
-                  Scholar's Clock<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/14a3f62d565f893270afe26729c268dd.png"
-                    height="18"
-                  />
-                  Maiden's Fleeting Leisure<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/35717f06915212fb763cb96cc9702a3d.png"
-                    height="18"
-                  />
-                  Instructor's Cap<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -3577,8 +3552,8 @@
               <tr>
                 <td>
                   Artifacts<br />1 x Thundering Fury<br />1 x Wanderer's
-                  Troupe<br />1 x Berserker<br />1 x Instructor<br />1 x Prayers
-                  for Illumination<br />
+                  Troupe<br />1 x Berserker<br />1 x Instructor<br />1 x
+                  Marechaussee Hunter<br />
                 </td>
                 <td>
                   <img
@@ -3598,10 +3573,10 @@
                     height="18"
                   />
                   Instructor's Tea Cup<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c82d6530eecd064d167e6948321200d.png"
                     height="18"
                   />
-                  Tiara of Flame<br />
+                  Veteran's Visage<br />
                 </td>
               </tr>
               <tr>
@@ -3910,7 +3885,7 @@
               <tr>
                 <td>
                   Artifacts<br />1 x Archaic Petra<br />1 x The Exile<br />1 x
-                  Maiden Beloved<br />1 x Instructor<br />1 x Gladiator's
+                  Noblesse Oblige<br />1 x Instructor<br />1 x Gladiator's
                   Finale<br />
                 </td>
                 <td>
@@ -3923,10 +3898,10 @@
                     height="18"
                   />
                   Exile's Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/fbfc3a05f85d5f75a891392394a866a4.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3499ae009abee5e9a92527f557703c1c.png"
                     height="18"
                   />
-                  Maiden's Passing Youth<br /><img
+                  Royal Pocket Watch<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/fce28e96a469dc3f961015c6202d9dba.png"
                     height="18"
                   />
@@ -3948,6 +3923,119 @@
               <tr>
                 <td>Name</td>
                 <td>Favonius Lance</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Xingqiu</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Xingqiu</h3></th>
+          <th><h3 align="center">Sacrificial Sword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Xingqiu_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f9438ee13f158f33f464dcc969f60d3e.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>41</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Heart of Depth<br />1 x Gladiator's
+                  Finale<br />1 x Marechaussee Hunter<br />1 x Noblesse
+                  Oblige<br />1 x Prayers for Illumination<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f51cbb124f0a9e962b9ba7b11f0b65d9.png"
+                    height="18"
+                  />
+                  Gilded Corsage<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3bfddb3eccc765b689ea566386b486d7.png"
+                    height="18"
+                  />
+                  Gladiator's Destiny<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
+                    height="18"
+                  />
+                  Moment of Judgment<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/826c97782b144ea16bedabb01d0a928c.png"
+                    height="18"
+                  />
+                  Royal Silver Urn<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
+                    height="18"
+                  />
+                  Tiara of Flame<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Sacrificial Sword</td>
               </tr>
               <tr>
                 <td>Rarity</td>
@@ -4770,13 +4858,19 @@
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br />1 x Adventurer<br /></td>
+                <td>
+                  Artifacts<br />1 x Adventurer<br />1 x Traveling Doctor<br />
+                </td>
                 <td>
                   <img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/38553ee7f98bf583067b2fb4e76fb667.png"
                     height="18"
                   />
-                  Adventurer's Pocket Watch<br />
+                  Adventurer's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1faaca624fe1d2c2cf349eac132e3688.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Medicine Pot<br />
                 </td>
               </tr>
               <tr>
@@ -4798,118 +4892,6 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Xingqiu</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Xingqiu</h3></th>
-          <th><h3 align="center">Sacrificial Sword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Xingqiu_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f9438ee13f158f33f464dcc969f60d3e.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>21</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />1 x Scholar<br />1 x Gladiator's Finale<br />2
-                  x Noblesse Oblige<br />1 x Berserker<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3765b2d77d6fc1a79d949b9fe49dd1f0.png"
-                    height="18"
-                  />
-                  Scholar's Bookmark<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3bfddb3eccc765b689ea566386b486d7.png"
-                    height="18"
-                  />
-                  Gladiator's Destiny<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3499ae009abee5e9a92527f557703c1c.png"
-                    height="18"
-                  />
-                  Royal Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/826c97782b144ea16bedabb01d0a928c.png"
-                    height="18"
-                  />
-                  Royal Silver Urn<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3db2233352e26eb1fd91f377687f1ef2.png"
-                    height="18"
-                  />
-                  Berserker's Battle Mask<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Sacrificial Sword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>40</td>
               </tr>
               <tr>
                 <td>Refinement</td>
