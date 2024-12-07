@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 07, 2024 08:39 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 07, 2024 19:38 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>242</td>
+        <td>243</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2210 (rate -11)</td>
+        <td>2270 (rate -9)</td>
       </tr>
       <tr>
         <td>
@@ -83,8 +83,8 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1700 (76%)<br />Daily Activity: 285 (12%)<br />Simulated
-          Universe: 225 (10%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
+          Mail: 1700 (74%)<br />Daily Activity: 345 (15%)<br />Simulated
+          Universe: 225 (9%)<br />Other: 0 (2%)<br />Event: 0 (0%)<br />Adventure
           Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
@@ -2942,7 +2942,7 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>55</td>
+        <td>56</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2978,7 +2978,7 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>167</td>
+        <td>168</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
