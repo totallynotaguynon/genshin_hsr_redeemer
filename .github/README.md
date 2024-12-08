@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 08, 2024 08:56 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 08, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>535</td>
+        <td>536</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>260 (rate -94)</td>
+        <td>2310 (rate -54)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>0 (rate -100)</td>
+        <td>12 (rate -25)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Daily Activity: 120 (46%)<br />Event: 120 (46%)<br />Adventure
-          Rewards: 20 (7%)<br />Other: 0 (1%)<br />Simulated Universe: 0 (0%)<br />Forgotten
-          Hall: 0 (0%)<br />Mail: 0 (0%)<br />
+          Mail: 1670 (72%)<br />Simulated Universe: 225 (9%)<br />Daily
+          Activity: 180 (7%)<br />Event: 180 (7%)<br />Other: 0 (3%)<br />Adventure
+          Rewards: 55 (2%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
       </tr>
     </table>
@@ -3184,26 +3184,26 @@
                 <td>Relics</td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/eeb63bfc0e7796a453e95b9695b1e4ec.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/0a4f1c58cd407c67e5410ba60cf76c23.png"
                     ,
                     height="18"
                   />
-                  Band's Polarized Sunglasses<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/97ee4c292e953a38cd40e41e5a80cd11.png"
+                  Grand Duke's Crown of Netherflame<br /><img
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/fc72ab0008b7c526db331681263bef22.png"
                     ,
                     height="18"
                   />
-                  Band's Touring Bracelet<br /><img
+                  Grand Duke's Gloves of Fieryfur<br /><img
                     src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/175c699b41806281ab6590dfed4293f6.png"
                     ,
                     height="18"
                   />
                   Band's Leather Jacket With Studs<br /><img
-                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/8aa4b822f3a4478eb0361b9a746171ca.png"
+                    src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u542tc/cb677a72add3dbeca694e9f8761cb6e2.png"
                     ,
                     height="18"
                   />
-                  Band's Ankle Boots With Rivets<br />
+                  Grand Duke's Ceremonial Boots<br />
                 </td>
               </tr>
               <tr>
