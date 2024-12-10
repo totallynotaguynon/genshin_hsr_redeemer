@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 09, 2024 19:42 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 10, 2024 08:42 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Credit
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -2911,17 +2911,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Fine Enhancement Ore
+          Mora
         </td>
       </tr>
     </table>
@@ -2938,11 +2938,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>115</td>
+        <td>118</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>56</td>
+        <td>57</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2970,7 +2970,7 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>5</td>
+        <td>6</td>
       </tr>
       <tr>
         <td>Pyroculi</td>
@@ -2978,15 +2978,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>170</td>
+        <td>180</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>205</td>
+        <td>213</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>45</td>
+        <td>46</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2994,11 +2994,11 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>9</td>
+        <td>11</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>147</td>
+        <td>161</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -3158,7 +3158,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/4/" width="80" />
+                <img src="https://progress-bar.xyz/6/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3172,7 +3172,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/1/" width="80" />
+                <img src="https://progress-bar.xyz/2/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3265,7 +3265,7 @@
           />
           Primogems earned
         </td>
-        <td>1920 (rate -57)</td>
+        <td>2411 (rate -47)</td>
       </tr>
       <tr>
         <td>
@@ -3275,14 +3275,14 @@
           />
           Mora earned
         </td>
-        <td>516225 (rate -74)</td>
+        <td>673492 (rate -67)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 820 (43%)<br />Adventure: 476 (25%)<br />Spiral Abyss: 300
-          (16%)<br />Daily Activity: 240 (13%)<br />Quests: 50 (2%)<br />Events:
-          0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 34 (1%)<br />
+          Mail: 1020 (43%)<br />Adventure: 674 (28%)<br />Daily Activity: 300
+          (13%)<br />Spiral Abyss: 300 (12%)<br />Quests: 50 (2%)<br />Events: 0
+          (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 67 (2%)<br />
         </td>
       </tr>
     </table>
@@ -3614,7 +3614,7 @@
       <table>
         <tr>
           <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Emerald Orb</h3></th>
+          <th><h3 align="center">Eye of Perception</h3></th>
         </tr>
         <tr>
           <td>
@@ -3628,7 +3628,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/213e183dad337b350ea20816f1629372.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/b65b7adb50adb0618206f9d0238ebb57.png"
                 height="250"
               />
             </p>
@@ -3697,15 +3697,128 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Emerald Orb</td>
+                <td>Eye of Perception</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★</td>
+                <td>★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>20</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>2</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Xingqiu</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Xingqiu</h3></th>
+          <th><h3 align="center">Sacrificial Sword</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Xingqiu_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f9438ee13f158f33f464dcc969f60d3e.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Heart of Depth<br />1 x Golden Troupe<br />1
+                  x Marechaussee Hunter<br />1 x Noblesse Oblige<br />1 x
+                  Prayers for Illumination<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f51cbb124f0a9e962b9ba7b11f0b65d9.png"
+                    height="18"
+                  />
+                  Gilded Corsage<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3bd224e70490e21ad3a12d30018e19df.png"
+                    height="18"
+                  />
+                  Golden Bird's Shedding<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
+                    height="18"
+                  />
+                  Moment of Judgment<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/826c97782b144ea16bedabb01d0a928c.png"
+                    height="18"
+                  />
+                  Royal Silver Urn<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
+                    height="18"
+                  />
+                  Tiara of Flame<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Sacrificial Sword</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -3818,119 +3931,6 @@
               <tr>
                 <td>Level</td>
                 <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Xingqiu</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Xingqiu</h3></th>
-          <th><h3 align="center">Sacrificial Sword</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Xingqiu_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f9438ee13f158f33f464dcc969f60d3e.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />1 x Heart of Depth<br />1 x Golden Troupe<br />1
-                  x Marechaussee Hunter<br />1 x Noblesse Oblige<br />1 x
-                  Prayers for Illumination<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f51cbb124f0a9e962b9ba7b11f0b65d9.png"
-                    height="18"
-                  />
-                  Gilded Corsage<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3bd224e70490e21ad3a12d30018e19df.png"
-                    height="18"
-                  />
-                  Golden Bird's Shedding<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
-                    height="18"
-                  />
-                  Moment of Judgment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/826c97782b144ea16bedabb01d0a928c.png"
-                    height="18"
-                  />
-                  Royal Silver Urn<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
-                    height="18"
-                  />
-                  Tiara of Flame<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Sacrificial Sword</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -4168,7 +4168,7 @@
       <table>
         <tr>
           <th><h3 align="center">Barbara</h3></th>
-          <th><h3 align="center">Eye of Perception</h3></th>
+          <th><h3 align="center">Emerald Orb</h3></th>
         </tr>
         <tr>
           <td>
@@ -4182,7 +4182,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/b65b7adb50adb0618206f9d0238ebb57.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/213e183dad337b350ea20816f1629372.png"
                 height="250"
               />
             </p>
@@ -4218,7 +4218,7 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Adventurer<br />1 x The Exile<br />2 x
+                  Artifacts<br />2 x Adventurer<br />1 x The Exile<br />1 x
                   Traveling Doctor<br />
                 </td>
                 <td>
@@ -4231,10 +4231,6 @@
                     height="18"
                   />
                   Exile's Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/6b8ff5e82dabddfa1e44e7722610aa03.png"
-                    height="18"
-                  />
-                  Traveling Doctor's Pocket Watch<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1faaca624fe1d2c2cf349eac132e3688.png"
                     height="18"
                   />
@@ -4255,19 +4251,19 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Eye of Perception</td>
+                <td>Emerald Orb</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>70</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>Refinement</td>
-                <td>2</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
