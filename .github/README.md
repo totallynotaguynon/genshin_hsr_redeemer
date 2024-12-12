@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 11, 2024 19:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 12, 2024 08:49 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3000 x
+          2 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/a48b5572458c09cbeb2e1eb71bbe3a7d_4802697224426521219.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
             height="20"
           />
-          Dennies
+          Crystallized Plating Agents
         </td>
       </tr>
     </table>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
           2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          Lost Gold Fragment
+          Condensed Aether
         </td>
       </tr>
     </table>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>11</td>
+        <td>12</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
             height="20"
           />
-          Primogem
+          Fried Radish Balls
         </td>
       </tr>
     </table>
@@ -5674,11 +5674,11 @@
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>1014</td>
+        <td>1016</td>
       </tr>
       <tr>
         <td>Characters</td>
-        <td>71</td>
+        <td>73</td>
       </tr>
       <tr>
         <td>Spiral_Abyss</td>
@@ -6251,7 +6251,7 @@
           />
           Primogems earned
         </td>
-        <td>1750 (rate -43)</td>
+        <td>1830 (rate -40)</td>
       </tr>
       <tr>
         <td>
@@ -6261,13 +6261,13 @@
           />
           Mora earned
         </td>
-        <td>587504 (rate -71)</td>
+        <td>696979 (rate -66)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1020 (59%)<br />Events: 380 (22%)<br />Daily Activity: 180
-          (10%)<br />Quests: 120 (6%)<br />Adventure: 10 (1%)<br />Spiral Abyss:
+          Mail: 1040 (57%)<br />Events: 380 (21%)<br />Daily Activity: 240
+          (13%)<br />Quests: 120 (6%)<br />Adventure: 10 (1%)<br />Spiral Abyss:
           0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 40 (2%)<br />
         </td>
       </tr>
@@ -8902,24 +8902,13 @@
                 <td>2</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />1 x Gladiator's Finale<br />2 x Marechaussee
-                  Hunter<br />
-                </td>
+                <td>Artifacts<br />1 x Gladiator's Finale<br /></td>
                 <td>
                   <img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/917e3f442f9fc54448586dc06f7eefee.png"
                     height="18"
                   />
-                  Gladiator's Nostalgia<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
-                    height="18"
-                  />
-                  Moment of Judgment<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c82d6530eecd064d167e6948321200d.png"
-                    height="18"
-                  />
-                  Veteran's Visage<br />
+                  Gladiator's Nostalgia<br />
                 </td>
               </tr>
               <tr>
@@ -9329,36 +9318,11 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>2</td>
+                <td>3</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />2 x Tenacity of the Millelith<br />2 x
-                  Vourukasha's Glow<br />1 x Fragment of Harmonic Whimsy<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/bddb98b170120f0bbb0793e661fd5f78.png"
-                    height="18"
-                  />
-                  Flower of Accolades<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9bab7bad30dacff147d1646c3eefc18f.png"
-                    height="18"
-                  />
-                  Vibrant Pinion<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/ab4ff023b0ee6778e72959edd5677b38.png"
-                    height="18"
-                  />
-                  Ancient Abscission<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1efad16ed6f40cf0de2155ea96f043c2.png"
-                    height="18"
-                  />
-                  Noble's Pledging Vessel<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c2e738e30b3153fb341a1a28588380b.png"
-                    height="18"
-                  />
-                  Whimsical Dance of the Withered<br />
-                </td>
+                <td>Artifacts<br /></td>
+                <td></td>
               </tr>
               <tr>
                 <td>Outfits</td>
@@ -9615,7 +9579,7 @@
       <table>
         <tr>
           <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Solar Pearl</h3></th>
+          <th><h3 align="center">Skyward Atlas</h3></th>
         </tr>
         <tr>
           <td>
@@ -9629,7 +9593,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/d0cbd8b48235a8e0ead232e4f9b54ea4.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/597afc7cb45ffc636e4fdde5b24a713f.png"
                 height="250"
               />
             </p>
@@ -9702,15 +9666,15 @@
             <table>
               <tr>
                 <td>Name</td>
-                <td>Solar Pearl</td>
+                <td>Skyward Atlas</td>
               </tr>
               <tr>
                 <td>Rarity</td>
-                <td>★★★★</td>
+                <td>★★★★★</td>
               </tr>
               <tr>
                 <td>Level</td>
-                <td>50</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>Refinement</td>
@@ -10445,7 +10409,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>4</td>
+                <td>6</td>
               </tr>
               <tr>
                 <td>
@@ -11403,7 +11367,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>1</td>
+                <td>3</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
@@ -11693,6 +11657,118 @@
               <tr>
                 <td>Refinement</td>
                 <td>5</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Neuvillette</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Neuvillette</h3></th>
+          <th><h3 align="center">Solar Pearl</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Neuvillette_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/d0cbd8b48235a8e0ead232e4f9b54ea4.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Marechaussee Hunter<br />1 x Heart of
+                  Depth<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/35815a85a4286256f3985eb80176132f.png"
+                    height="18"
+                  />
+                  Hunter's Brooch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4321ce125c3baa331fb6e70cef3bbad9.png"
+                    height="18"
+                  />
+                  Masterpiece's Overture<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
+                    height="18"
+                  />
+                  Moment of Judgment<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/beeb37bd8e619954c725aae3c93ccb62.png"
+                    height="18"
+                  />
+                  Goblet of Thundering Deep<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c82d6530eecd064d167e6948321200d.png"
+                    height="18"
+                  />
+                  Veteran's Visage<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Solar Pearl</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
               </tr>
             </table>
           </td>
@@ -12333,6 +12409,118 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Zhongli</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Zhongli</h3></th>
+          <th><h3 align="center">Favonius Lance</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Zhongli_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/06579fc5532762dd0edddab548820df1.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Tenacity of the Millelith<br />2 x
+                  Vourukasha's Glow<br />1 x Fragment of Harmonic Whimsy<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/bddb98b170120f0bbb0793e661fd5f78.png"
+                    height="18"
+                  />
+                  Flower of Accolades<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9bab7bad30dacff147d1646c3eefc18f.png"
+                    height="18"
+                  />
+                  Vibrant Pinion<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/ab4ff023b0ee6778e72959edd5677b38.png"
+                    height="18"
+                  />
+                  Ancient Abscission<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1efad16ed6f40cf0de2155ea96f043c2.png"
+                    height="18"
+                  />
+                  Noble's Pledging Vessel<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c2e738e30b3153fb341a1a28588380b.png"
+                    height="18"
+                  />
+                  Whimsical Dance of the Withered<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Favonius Lance</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>90</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>5</td>
               </tr>
             </table>
           </td>
@@ -13362,7 +13550,7 @@
               </tr>
               <tr>
                 <td>Constellation</td>
-                <td>0</td>
+                <td>2</td>
               </tr>
               <tr>
                 <td>Artifacts<br /></td>
