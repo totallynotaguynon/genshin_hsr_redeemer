@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 12, 2024 08:41 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 12, 2024 19:41 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>247</td>
+        <td>248</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -68,7 +68,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2735 (rate 9)</td>
+        <td>2780 (rate 10)</td>
       </tr>
       <tr>
         <td>
@@ -83,7 +83,7 @@
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1700 (62%)<br />Daily Activity: 585 (21%)<br />Simulated
+          Mail: 1700 (61%)<br />Daily Activity: 630 (22%)<br />Simulated
           Universe: 450 (16%)<br />Other: 0 (1%)<br />Event: 0 (0%)<br />Adventure
           Rewards: 0 (0%)<br />Forgotten Hall: 0 (0%)<br />
         </td>
