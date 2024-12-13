@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 12, 2024 19:46 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 13, 2024 08:50 +0700</u></h3>
 <br />
 <details align="center">
   <summary>:sleeping: Zenless Zone Zero Details</summary>
@@ -11,17 +11,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/2dc72dda579740117cc613a7c4b61072_8116301305434853429.png"
+            src="https://act-webstatic.hoyoverse.com/event-static/2024/06/11/d7da97e53408b8485a9f9f0fe339f853_2231547654644822801.png"
             height="20"
           />
-          Crystallized Plating Agents
+          Polychromes
         </td>
       </tr>
     </table>
@@ -38,7 +38,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>129</td>
+        <td>130</td>
       </tr>
       <tr>
         <td>Obtained Character</td>
@@ -1257,17 +1257,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          2 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          Condensed Aether
+          Stellar Jade
         </td>
       </tr>
     </table>
@@ -1284,7 +1284,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>538</td>
+        <td>539</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -1309,7 +1309,7 @@
           <img src="../images/icons/stellar_jade.png" height="18" /> Stellar
           Jade earned
         </td>
-        <td>2990 (rate -41)</td>
+        <td>3050 (rate -40)</td>
       </tr>
       <tr>
         <td>
@@ -1319,14 +1319,14 @@
           />
           Pass & Special Pass earned
         </td>
-        <td>15 (rate -6)</td>
+        <td>16 (rate 0)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Mail: 1670 (55%)<br />Forgotten Hall: 560 (18%)<br />Daily Activity:
-          300 (10%)<br />Simulated Universe: 225 (7%)<br />Event: 180 (6%)<br />Other:
-          0 (3%)<br />Adventure Rewards: 55 (1%)<br />
+          Mail: 1670 (54%)<br />Forgotten Hall: 560 (18%)<br />Daily Activity:
+          360 (11%)<br />Simulated Universe: 225 (7%)<br />Event: 180 (5%)<br />Other:
+          0 (4%)<br />Adventure Rewards: 55 (1%)<br />
         </td>
       </tr>
     </table>
@@ -5643,17 +5643,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>12</td>
+        <td>13</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          2 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
             height="20"
           />
-          Fried Radish Balls
+          Adventurer's Experience
         </td>
       </tr>
     </table>
