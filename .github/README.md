@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Dec 20, 2024 19:37 +0700</u></h3>
+<h3 align="center">🕒 Updated at <u>Dec 21, 2024 08:24 +0700</u></h3>
 <br />
 <details align="center">
   <summary>
@@ -16,17 +16,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
             height="20"
           />
-          Stellar Jade
+          Adventure Log
         </td>
       </tr>
     </table>
@@ -2911,17 +2911,17 @@
     <table>
       <tr>
         <td>Total Rewards Claimed</td>
-        <td>20</td>
+        <td>21</td>
       </tr>
       <tr>
         <td>Last Claimed Reward</td>
         <td>
-          3 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          Adventurer's Experience
+          Mora
         </td>
       </tr>
     </table>
@@ -2938,11 +2938,11 @@
     <table>
       <tr>
         <td>Achievements</td>
-        <td>126</td>
+        <td>131</td>
       </tr>
       <tr>
         <td>Days_Active</td>
-        <td>61</td>
+        <td>62</td>
       </tr>
       <tr>
         <td>Characters</td>
@@ -2962,7 +2962,7 @@
       </tr>
       <tr>
         <td>Dendroculi</td>
-        <td>7</td>
+        <td>9</td>
       </tr>
       <tr>
         <td>Electroculi</td>
@@ -2970,7 +2970,7 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>14</td>
+        <td>16</td>
       </tr>
       <tr>
         <td>Pyroculi</td>
@@ -2978,15 +2978,15 @@
       </tr>
       <tr>
         <td>Common_Chests</td>
-        <td>192</td>
+        <td>196</td>
       </tr>
       <tr>
         <td>Exquisite_Chests</td>
-        <td>245</td>
+        <td>261</td>
       </tr>
       <tr>
         <td>Precious_Chests</td>
-        <td>54</td>
+        <td>56</td>
       </tr>
       <tr>
         <td>Luxurious_Chests</td>
@@ -2994,11 +2994,11 @@
       </tr>
       <tr>
         <td>Remarkable_Chests</td>
-        <td>15</td>
+        <td>17</td>
       </tr>
       <tr>
         <td>Unlocked_Waypoints</td>
-        <td>202</td>
+        <td>210</td>
       </tr>
       <tr>
         <td>Unlocked_Domains</td>
@@ -3172,7 +3172,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/2/" width="80" />
+                <img src="https://progress-bar.xyz/3/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3200,7 +3200,7 @@
             <tr>
               <td>Explored</td>
               <td>
-                <img src="https://progress-bar.xyz/20/" width="80" />
+                <img src="https://progress-bar.xyz/21/" width="80" />
               </td>
             </tr>
             <tr>
@@ -3320,7 +3320,7 @@
           />
           Primogems earned
         </td>
-        <td>4260 (rate -6)</td>
+        <td>4686 (rate 2)</td>
       </tr>
       <tr>
         <td>
@@ -3330,14 +3330,14 @@
           />
           Mora earned
         </td>
-        <td>1796757 (rate -12)</td>
+        <td>2415405 (rate 17)</td>
       </tr>
       <tr>
         <td>Categories</td>
         <td>
-          Adventure: 1469 (35%)<br />Mail: 1060 (25%)<br />Events: 640 (16%)<br />Daily
-          Activity: 540 (12%)<br />Spiral Abyss: 400 (9%)<br />Quests: 50
-          (1%)<br />Imaginarium Theater: 0 (0%)<br />Other: 101 (2%)<br />
+          Adventure: 1654 (36%)<br />Mail: 1260 (27%)<br />Events: 640 (14%)<br />Daily
+          Activity: 580 (12%)<br />Spiral Abyss: 400 (8%)<br />Quests: 50
+          (1%)<br />Imaginarium Theater: 0 (0%)<br />Other: 102 (2%)<br />
         </td>
       </tr>
     </table>
@@ -3407,15 +3407,11 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Crimson Witch of Flames<br />1 x
-                  Berserker<br />1 x Instructor<br />1 x Gladiator's Finale<br />
+                  Artifacts<br />1 x Berserker<br />1 x Instructor<br />1 x
+                  Marechaussee Hunter<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/d82c77f482d2e439a1a2e6eec8d31177.png"
-                    height="18"
-                  />
-                  Witch's Ever-Burning Plume<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/e0de66fe8154a82672dabee0e71ef98d.png"
                     height="18"
                   />
@@ -3424,10 +3420,10 @@
                     height="18"
                   />
                   Instructor's Tea Cup<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/84e5b7818707f2717b736b11d8789af3.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c82d6530eecd064d167e6948321200d.png"
                     height="18"
                   />
-                  Gladiator's Triumphus<br />
+                  Veteran's Visage<br />
                 </td>
               </tr>
               <tr>
@@ -3572,6 +3568,118 @@
       </table>
     </details>
     <details>
+      <summary><b>Neuvillette</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Neuvillette</h3></th>
+          <th><h3 align="center">Dodoco Tales</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Neuvillette_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/960ea47eb025e0c7f25d3da265e435f6.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>2</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />4 x Wanderer's Troupe<br />1 x Prayers for
+                  Illumination<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/997f6b1272577f8723ac46af7b62b592.png"
+                    height="18"
+                  />
+                  Troupe's Dawnlight<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/d0d0899fd7d23d7df9a716801b2d4aac.png"
+                    height="18"
+                  />
+                  Bard's Arrow Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/6b106b8a23d8b678ceb3e421fe518c99.png"
+                    height="18"
+                  />
+                  Concert's Final Hour<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4127569631049f50656ef368d059d043.png"
+                    height="18"
+                  />
+                  Wanderer's String-Kettle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
+                    height="18"
+                  />
+                  Tiara of Flame<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Dodoco Tales</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>80</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>3</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Qiqi</b></summary>
       <br />
       <table>
@@ -3659,6 +3767,119 @@
       </table>
     </details>
     <details>
+      <summary><b>Xiangling</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Xiangling</h3></th>
+          <th><h3 align="center">Favonius Lance</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Xiangling_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/06579fc5532762dd0edddab548820df1.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />2 x Gladiator's Finale<br />1 x Crimson Witch
+                  of Flames<br />1 x Marechaussee Hunter<br />1 x Wanderer's
+                  Troupe<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/917e3f442f9fc54448586dc06f7eefee.png"
+                    height="18"
+                  />
+                  Gladiator's Nostalgia<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/d82c77f482d2e439a1a2e6eec8d31177.png"
+                    height="18"
+                  />
+                  Witch's Ever-Burning Plume<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
+                    height="18"
+                  />
+                  Moment of Judgment<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4127569631049f50656ef368d059d043.png"
+                    height="18"
+                  />
+                  Wanderer's String-Kettle<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/84e5b7818707f2717b736b11d8789af3.png"
+                    height="18"
+                  />
+                  Gladiator's Triumphus<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Favonius Lance</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
       <summary><b>Xingqiu</b></summary>
       <br />
       <table>
@@ -3714,24 +3935,23 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Heart of Depth<br />1 x Golden Troupe<br />1
-                  x Marechaussee Hunter<br />1 x Noblesse Oblige<br />1 x The
-                  Exile<br />
+                  Artifacts<br />2 x Golden Troupe<br />2 x Noblesse Oblige<br />1
+                  x The Exile<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f51cbb124f0a9e962b9ba7b11f0b65d9.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f0da092f7f87211ac1c5cbcb71af942e.png"
                     height="18"
                   />
-                  Gilded Corsage<br /><img
+                  Golden Song's Variation<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3bd224e70490e21ad3a12d30018e19df.png"
                     height="18"
                   />
                   Golden Bird's Shedding<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/9730d9e1eee3a1e705f1321ecd54accc.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3499ae009abee5e9a92527f557703c1c.png"
                     height="18"
                   />
-                  Moment of Judgment<br /><img
+                  Royal Pocket Watch<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/826c97782b144ea16bedabb01d0a928c.png"
                     height="18"
                   />
@@ -3777,7 +3997,7 @@
       <table>
         <tr>
           <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Eye of Perception</h3></th>
+          <th><h3 align="center">Apprentice's Notes</h3></th>
         </tr>
         <tr>
           <td>
@@ -3791,7 +4011,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/b65b7adb50adb0618206f9d0238ebb57.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/2c045a3c81a093a8651946749e58c3dd.png"
                 height="250"
               />
             </p>
@@ -3827,27 +4047,135 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />3 x Golden Troupe<br />1 x The Exile<br />1 x
-                  Traveling Doctor<br />
+                  Artifacts<br />1 x Wanderer's Troupe<br />1 x The Exile<br />1
+                  x Adventurer<br />1 x Traveling Doctor<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f0da092f7f87211ac1c5cbcb71af942e.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/997f6b1272577f8723ac46af7b62b592.png"
                     height="18"
                   />
-                  Golden Song's Variation<br /><img
+                  Troupe's Dawnlight<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/05784b6017e89ea53c66d04f16c09423.png"
                     height="18"
                   />
                   Exile's Feather<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/38553ee7f98bf583067b2fb4e76fb667.png"
+                    height="18"
+                  />
+                  Adventurer's Pocket Watch<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1faaca624fe1d2c2cf349eac132e3688.png"
+                    height="18"
+                  />
+                  Traveling Doctor's Medicine Pot<br />
+                </td>
+              </tr>
+              <tr>
+                <td>Outfits</td>
+                <td></td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table>
+              <tr>
+                <td>Name</td>
+                <td>Apprentice's Notes</td>
+              </tr>
+              <tr>
+                <td>Rarity</td>
+                <td>★</td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>Refinement</td>
+                <td>1</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </details>
+    <details>
+      <summary><b>Sucrose</b></summary>
+      <br />
+      <table>
+        <tr>
+          <th><h3 align="center">Sucrose</h3></th>
+          <th><h3 align="center">Eye of Perception</h3></th>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <img
+                src="https://enka.network/ui/UI_AvatarIcon_Sucrose_Card.png"
+                heigt="250"
+              />
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/b65b7adb50adb0618206f9d0238ebb57.png"
+                height="250"
+              />
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>Rarity</td>
+                <td>★★★★</td>
+              </tr>
+              <tr>
+                <td>Element</td>
+                <td>
+                  <img
+                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
+                    height="18"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>Level</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>Friendship</td>
+                <td>3</td>
+              </tr>
+              <tr>
+                <td>Constellation</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>
+                  Artifacts<br />1 x Viridescent Venerer<br />1 x Marechaussee
+                  Hunter<br />2 x Golden Troupe<br />1 x Instructor<br />
+                </td>
+                <td>
+                  <img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/98472df067eaf8d6f48b1122217851ac.png"
+                    height="18"
+                  />
+                  In Remembrance of Viridescent Fields<br /><img
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4321ce125c3baa331fb6e70cef3bbad9.png"
+                    height="18"
+                  />
+                  Masterpiece's Overture<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/764085efa93da641e4e619e41047183f.png"
                     height="18"
                   />
                   Golden Era's Prelude<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1faaca624fe1d2c2cf349eac132e3688.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/fce28e96a469dc3f961015c6202d9dba.png"
                     height="18"
                   />
-                  Traveling Doctor's Medicine Pot<br /><img
+                  Instructor's Tea Cup<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/bdd94e4db4df87f9a84abf3c724452de.png"
                     height="18"
                   />
@@ -3939,16 +4267,16 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Gladiator's Finale<br />1 x The Exile<br />1
-                  x Adventurer<br />1 x Wanderer's Troupe<br />1 x Prayers for
+                  Artifacts<br />1 x Archaic Petra<br />1 x The Exile<br />1 x
+                  Adventurer<br />1 x Traveling Doctor<br />1 x Prayers for
                   Wisdom<br />
                 </td>
                 <td>
                   <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/917e3f442f9fc54448586dc06f7eefee.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81c26c2d36a3efc2a6dd8602c3facd44.png"
                     height="18"
                   />
-                  Gladiator's Nostalgia<br /><img
+                  Flower of Creviced Cliff<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/05784b6017e89ea53c66d04f16c09423.png"
                     height="18"
                   />
@@ -3957,10 +4285,10 @@
                     height="18"
                   />
                   Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4127569631049f50656ef368d059d043.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1faaca624fe1d2c2cf349eac132e3688.png"
                     height="18"
                   />
-                  Wanderer's String-Kettle<br /><img
+                  Traveling Doctor's Medicine Pot<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/8c747cc28d0d5376d8a00325d9d3d786.png"
                     height="18"
                   />
@@ -3990,118 +4318,6 @@
               <tr>
                 <td>Refinement</td>
                 <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Neuvillette</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Neuvillette</h3></th>
-          <th><h3 align="center">Dodoco Tales</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Neuvillette_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/960ea47eb025e0c7f25d3da265e435f6.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>50</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />4 x Wanderer's Troupe<br />1 x Prayers for
-                  Illumination<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/997f6b1272577f8723ac46af7b62b592.png"
-                    height="18"
-                  />
-                  Troupe's Dawnlight<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/d0d0899fd7d23d7df9a716801b2d4aac.png"
-                    height="18"
-                  />
-                  Bard's Arrow Feather<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/6b106b8a23d8b678ceb3e421fe518c99.png"
-                    height="18"
-                  />
-                  Concert's Final Hour<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4127569631049f50656ef368d059d043.png"
-                    height="18"
-                  />
-                  Wanderer's String-Kettle<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81bb3001aa3a95c383be890860ede313.png"
-                    height="18"
-                  />
-                  Tiara of Flame<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Dodoco Tales</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>70</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>3</td>
               </tr>
             </table>
           </td>
@@ -4221,114 +4437,6 @@
       </table>
     </details>
     <details>
-      <summary><b>Xiangling</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Xiangling</h3></th>
-          <th><h3 align="center">Favonius Lance</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Xiangling_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/06579fc5532762dd0edddab548820df1.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>47</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>
-                  Artifacts<br />1 x Archaic Petra<br />1 x Noblesse Oblige<br />1
-                  x Instructor<br />1 x Marechaussee Hunter<br />
-                </td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/81c26c2d36a3efc2a6dd8602c3facd44.png"
-                    height="18"
-                  />
-                  Flower of Creviced Cliff<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3499ae009abee5e9a92527f557703c1c.png"
-                    height="18"
-                  />
-                  Royal Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/fce28e96a469dc3f961015c6202d9dba.png"
-                    height="18"
-                  />
-                  Instructor's Tea Cup<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/3c82d6530eecd064d167e6948321200d.png"
-                    height="18"
-                  />
-                  Veteran's Visage<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Favonius Lance</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>60</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
       <summary><b>Noelle</b></summary>
       <br />
       <table>
@@ -4384,8 +4492,8 @@
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Berserker<br />1 x Marechaussee Hunter<br />2
-                  x Traveling Doctor<br />1 x Instructor<br />
+                  Artifacts<br />1 x Berserker<br />1 x Traveling Doctor<br />1
+                  x Lucky Dog<br />1 x Instructor<br />
                 </td>
                 <td>
                   <img
@@ -4393,18 +4501,14 @@
                     height="18"
                   />
                   Berserker's Rose<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/4321ce125c3baa331fb6e70cef3bbad9.png"
-                    height="18"
-                  />
-                  Masterpiece's Overture<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/6b8ff5e82dabddfa1e44e7722610aa03.png"
                     height="18"
                   />
                   Traveling Doctor's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/1faaca624fe1d2c2cf349eac132e3688.png"
+                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f8068af26813ad34f7b02ceada6153ad.png"
                     height="18"
                   />
-                  Traveling Doctor's Medicine Pot<br /><img
+                  Lucky Dog's Goblet<br /><img
                     src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/35717f06915212fb763cb96cc9702a3d.png"
                     height="18"
                   />
@@ -4957,103 +5061,6 @@
               <tr>
                 <td>Rarity</td>
                 <td>★★★</td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>Refinement</td>
-                <td>1</td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </details>
-    <details>
-      <summary><b>Sucrose</b></summary>
-      <br />
-      <table>
-        <tr>
-          <th><h3 align="center">Sucrose</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
-        </tr>
-        <tr>
-          <td>
-            <p align="center">
-              <img
-                src="https://enka.network/ui/UI_AvatarIcon_Sucrose_Card.png"
-                heigt="250"
-              />
-            </p>
-          </td>
-          <td>
-            <p align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/2c045a3c81a093a8651946749e58c3dd.png"
-                height="250"
-              />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <table>
-              <tr>
-                <td>Rarity</td>
-                <td>★★★★</td>
-              </tr>
-              <tr>
-                <td>Element</td>
-                <td>
-                  <img
-                    src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
-                    height="18"
-                  />
-                </td>
-              </tr>
-              <tr>
-                <td>Level</td>
-                <td>26</td>
-              </tr>
-              <tr>
-                <td>Friendship</td>
-                <td>3</td>
-              </tr>
-              <tr>
-                <td>Constellation</td>
-                <td>0</td>
-              </tr>
-              <tr>
-                <td>Artifacts<br />1 x Adventurer<br />1 x Lucky Dog<br /></td>
-                <td>
-                  <img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/38553ee7f98bf583067b2fb4e76fb667.png"
-                    height="18"
-                  />
-                  Adventurer's Pocket Watch<br /><img
-                    src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u3ce5g/f8068af26813ad34f7b02ceada6153ad.png"
-                    height="18"
-                  />
-                  Lucky Dog's Goblet<br />
-                </td>
-              </tr>
-              <tr>
-                <td>Outfits</td>
-                <td></td>
-              </tr>
-            </table>
-          </td>
-          <td valign="top">
-            <table>
-              <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
-              </tr>
-              <tr>
-                <td>Rarity</td>
-                <td>★</td>
               </tr>
               <tr>
                 <td>Level</td>
